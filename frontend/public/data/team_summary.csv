@@ -1,0 +1,11 @@
+team_name,match_id,opponent,season,total_pressure_events_faced,retained_10_event,possession_changed,period_ended,insufficient_events,eligible_observations,retention_rate_pct,avg_pressure_intensity_per_min
+Juventus,18242,Barcelona,2014/15,115,49,66,0,0,115,42.61,1.28
+Barcelona,18242,Juventus,2014/15,138,68,70,0,0,138,49.28,1.53
+Real Madrid,18243,Atlético Madrid,2015/16,121,61,59,1,0,120,50.83,1.01
+Atlético Madrid,18243,Real Madrid,2015/16,162,92,70,0,0,162,56.79,1.35
+Real Madrid,18244,Juventus,2016/17,100,63,37,0,0,100,63.0,1.11
+Juventus,18244,Real Madrid,2016/17,86,41,45,0,0,86,47.67,0.96
+Real Madrid,18245,Liverpool,2017/18,116,60,55,0,1,115,52.17,1.29
+Liverpool,18245,Real Madrid,2017/18,81,41,40,0,0,81,50.62,0.9
+Tottenham Hotspur,22912,Liverpool,2018/19,237,144,93,0,0,237,60.76,2.63
+Liverpool,22912,Tottenham Hotspur,2018/19,50,19,31,0,0,50,38.0,0.56

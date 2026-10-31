@@ -1,0 +1,1207 @@
+match_id,pressure_index,period,minute,pressing_team,attacking_team,possession_id,events_checked,outcome
+18242,30,1,0,Juventus,Barcelona,3,8,possession_changed
+18242,36,1,0,Juventus,Barcelona,3,2,possession_changed
+18242,47,1,0,Juventus,Barcelona,4,2,possession_changed
+18242,60,1,1,Juventus,Barcelona,6,6,possession_changed
+18242,74,1,1,Juventus,Barcelona,8,2,possession_changed
+18242,81,1,2,Juventus,Barcelona,9,10,retained_10_events
+18242,90,1,2,Juventus,Barcelona,9,2,possession_changed
+18242,105,1,2,Juventus,Barcelona,10,10,retained_10_events
+18242,112,1,2,Juventus,Barcelona,10,10,retained_10_events
+18242,122,1,3,Juventus,Barcelona,10,10,retained_10_events
+18242,126,1,3,Juventus,Barcelona,10,10,retained_10_events
+18242,142,1,3,Juventus,Barcelona,10,7,possession_changed
+18242,164,1,4,Barcelona,Juventus,11,4,possession_changed
+18242,174,1,5,Barcelona,Juventus,12,10,retained_10_events
+18242,181,1,5,Barcelona,Juventus,12,10,retained_10_events
+18242,196,1,5,Barcelona,Juventus,12,1,possession_changed
+18242,200,1,5,Juventus,Barcelona,13,2,possession_changed
+18242,228,1,6,Juventus,Barcelona,14,10,retained_10_events
+18242,247,1,6,Juventus,Barcelona,14,10,retained_10_events
+18242,257,1,6,Juventus,Barcelona,14,9,possession_changed
+18242,258,1,6,Juventus,Barcelona,14,8,possession_changed
+18242,283,1,7,Barcelona,Juventus,16,10,retained_10_events
+18242,290,1,7,Barcelona,Juventus,16,7,possession_changed
+18242,305,1,8,Juventus,Barcelona,17,2,possession_changed
+18242,310,1,8,Juventus,Barcelona,18,10,retained_10_events
+18242,317,1,8,Juventus,Barcelona,18,10,retained_10_events
+18242,327,1,8,Juventus,Barcelona,18,2,possession_changed
+18242,334,1,8,Barcelona,Juventus,19,10,retained_10_events
+18242,337,1,8,Barcelona,Juventus,19,10,retained_10_events
+18242,342,1,8,Barcelona,Juventus,19,9,possession_changed
+18242,345,1,8,Barcelona,Juventus,19,6,possession_changed
+18242,350,1,9,Barcelona,Juventus,19,1,possession_changed
+18242,355,1,9,Juventus,Barcelona,20,10,retained_10_events
+18242,374,1,9,Juventus,Barcelona,20,10,retained_10_events
+18242,411,1,9,Juventus,Barcelona,20,2,possession_changed
+18242,417,1,10,Juventus,Barcelona,21,10,retained_10_events
+18242,441,1,11,Juventus,Barcelona,21,10,retained_10_events
+18242,445,1,11,Juventus,Barcelona,21,10,retained_10_events
+18242,458,1,11,Juventus,Barcelona,21,10,retained_10_events
+18242,471,1,11,Juventus,Barcelona,21,2,possession_changed
+18242,476,1,11,Juventus,Barcelona,22,8,possession_changed
+18242,477,1,11,Juventus,Barcelona,22,7,possession_changed
+18242,478,1,11,Juventus,Barcelona,22,6,possession_changed
+18242,482,1,11,Juventus,Barcelona,22,2,possession_changed
+18242,488,1,12,Barcelona,Juventus,23,10,retained_10_events
+18242,492,1,12,Barcelona,Juventus,23,10,retained_10_events
+18242,493,1,12,Barcelona,Juventus,23,10,retained_10_events
+18242,502,1,12,Barcelona,Juventus,23,1,possession_changed
+18242,506,1,12,Juventus,Barcelona,24,10,retained_10_events
+18242,527,1,12,Juventus,Barcelona,26,10,retained_10_events
+18242,544,1,13,Juventus,Barcelona,28,10,retained_10_events
+18242,548,1,13,Juventus,Barcelona,28,10,retained_10_events
+18242,572,1,13,Juventus,Barcelona,28,2,possession_changed
+18242,598,1,15,Barcelona,Juventus,31,5,possession_changed
+18242,612,1,16,Juventus,Barcelona,32,10,retained_10_events
+18242,615,1,16,Juventus,Barcelona,32,10,retained_10_events
+18242,628,1,16,Juventus,Barcelona,32,10,retained_10_events
+18242,641,1,16,Juventus,Barcelona,32,10,retained_10_events
+18242,645,1,16,Juventus,Barcelona,32,10,retained_10_events
+18242,661,1,16,Juventus,Barcelona,32,7,possession_changed
+18242,663,1,16,Juventus,Barcelona,32,5,possession_changed
+18242,683,1,17,Barcelona,Juventus,33,10,retained_10_events
+18242,688,1,17,Barcelona,Juventus,33,10,retained_10_events
+18242,699,1,17,Barcelona,Juventus,33,10,retained_10_events
+18242,703,1,17,Barcelona,Juventus,33,10,retained_10_events
+18242,714,1,17,Barcelona,Juventus,33,10,retained_10_events
+18242,742,1,18,Barcelona,Juventus,33,10,retained_10_events
+18242,750,1,18,Barcelona,Juventus,33,10,retained_10_events
+18242,769,1,18,Juventus,Barcelona,34,10,retained_10_events
+18242,776,1,18,Juventus,Barcelona,34,10,retained_10_events
+18242,791,1,18,Juventus,Barcelona,34,7,possession_changed
+18242,797,1,18,Juventus,Barcelona,34,1,possession_changed
+18242,804,1,18,Barcelona,Juventus,35,10,retained_10_events
+18242,808,1,18,Barcelona,Juventus,35,6,possession_changed
+18242,881,1,20,Juventus,Barcelona,39,5,possession_changed
+18242,892,1,21,Juventus,Barcelona,40,10,retained_10_events
+18242,949,1,22,Juventus,Barcelona,40,10,retained_10_events
+18242,987,1,22,Barcelona,Juventus,41,2,possession_changed
+18242,1007,1,24,Barcelona,Juventus,45,3,possession_changed
+18242,1014,1,24,Barcelona,Juventus,46,1,possession_changed
+18242,1025,1,24,Juventus,Barcelona,47,2,possession_changed
+18242,1031,1,24,Barcelona,Juventus,48,2,possession_changed
+18242,1036,1,24,Juventus,Barcelona,49,2,possession_changed
+18242,1046,1,25,Juventus,Barcelona,50,3,possession_changed
+18242,1053,1,25,Juventus,Barcelona,51,10,retained_10_events
+18242,1099,1,26,Juventus,Barcelona,51,10,retained_10_events
+18242,1119,1,26,Barcelona,Juventus,55,1,possession_changed
+18242,1154,1,27,Juventus,Barcelona,56,10,retained_10_events
+18242,1179,1,27,Juventus,Barcelona,57,3,possession_changed
+18242,1188,1,28,Juventus,Barcelona,58,8,possession_changed
+18242,1204,1,28,Juventus,Barcelona,59,10,retained_10_events
+18242,1226,1,29,Juventus,Barcelona,59,5,possession_changed
+18242,1238,1,29,Juventus,Barcelona,61,6,possession_changed
+18242,1240,1,29,Juventus,Barcelona,61,4,possession_changed
+18242,1261,1,30,Barcelona,Juventus,64,2,possession_changed
+18242,1270,1,30,Juventus,Barcelona,65,5,possession_changed
+18242,1288,1,31,Juventus,Barcelona,66,10,retained_10_events
+18242,1304,1,31,Juventus,Barcelona,66,10,retained_10_events
+18242,1369,1,32,Juventus,Barcelona,67,7,possession_changed
+18242,1383,1,32,Barcelona,Juventus,68,10,retained_10_events
+18242,1387,1,32,Barcelona,Juventus,68,10,retained_10_events
+18242,1394,1,33,Barcelona,Juventus,68,10,retained_10_events
+18242,1398,1,33,Barcelona,Juventus,68,10,retained_10_events
+18242,1405,1,33,Barcelona,Juventus,68,6,possession_changed
+18242,1409,1,33,Barcelona,Juventus,68,2,possession_changed
+18242,1416,1,33,Barcelona,Juventus,69,4,possession_changed
+18242,1422,1,33,Barcelona,Juventus,70,4,possession_changed
+18242,1430,1,34,Barcelona,Juventus,71,5,possession_changed
+18242,1434,1,34,Barcelona,Juventus,71,1,possession_changed
+18242,1447,1,34,Juventus,Barcelona,72,3,possession_changed
+18242,1454,1,34,Barcelona,Juventus,73,10,retained_10_events
+18242,1465,1,35,Barcelona,Juventus,73,4,possession_changed
+18242,1477,1,35,Barcelona,Juventus,74,7,possession_changed
+18242,1492,1,36,Juventus,Barcelona,76,10,retained_10_events
+18242,1511,1,37,Juventus,Barcelona,76,10,retained_10_events
+18242,1524,1,37,Juventus,Barcelona,76,10,retained_10_events
+18242,1537,1,37,Juventus,Barcelona,76,5,possession_changed
+18242,1548,1,37,Barcelona,Juventus,77,10,retained_10_events
+18242,1552,1,37,Barcelona,Juventus,77,10,retained_10_events
+18242,1561,1,37,Barcelona,Juventus,77,4,possession_changed
+18242,1573,1,37,Juventus,Barcelona,78,7,possession_changed
+18242,1597,1,38,Barcelona,Juventus,80,2,possession_changed
+18242,1618,1,38,Barcelona,Juventus,82,10,retained_10_events
+18242,1623,1,38,Barcelona,Juventus,82,9,possession_changed
+18242,1639,1,38,Juventus,Barcelona,83,10,retained_10_events
+18242,1643,1,38,Juventus,Barcelona,83,10,retained_10_events
+18242,1656,1,38,Juventus,Barcelona,83,2,possession_changed
+18242,1667,1,39,Barcelona,Juventus,84,0,possession_changed
+18242,1677,1,39,Juventus,Barcelona,85,6,possession_changed
+18242,1693,1,40,Juventus,Barcelona,86,10,retained_10_events
+18242,1716,1,41,Juventus,Barcelona,87,8,possession_changed
+18242,1750,1,41,Juventus,Barcelona,89,10,retained_10_events
+18242,1764,1,42,Juventus,Barcelona,89,10,retained_10_events
+18242,1770,1,42,Juventus,Barcelona,89,10,retained_10_events
+18242,1775,1,42,Juventus,Barcelona,89,5,possession_changed
+18242,1803,1,42,Juventus,Barcelona,90,10,retained_10_events
+18242,1827,1,43,Barcelona,Juventus,91,10,retained_10_events
+18242,1833,1,43,Barcelona,Juventus,91,10,retained_10_events
+18242,1862,1,43,Barcelona,Juventus,91,6,possession_changed
+18242,1884,1,44,Juventus,Barcelona,97,10,retained_10_events
+18242,1889,1,44,Juventus,Barcelona,97,5,possession_changed
+18242,1893,1,44,Juventus,Barcelona,97,1,possession_changed
+18242,1913,2,45,Juventus,Barcelona,99,10,retained_10_events
+18242,1917,2,45,Juventus,Barcelona,99,10,retained_10_events
+18242,1944,2,45,Juventus,Barcelona,100,10,retained_10_events
+18242,1956,2,46,Juventus,Barcelona,100,5,possession_changed
+18242,1960,2,46,Juventus,Barcelona,100,1,possession_changed
+18242,1965,2,46,Barcelona,Juventus,101,2,possession_changed
+18242,1976,2,47,Juventus,Barcelona,104,4,possession_changed
+18242,2010,2,49,Barcelona,Juventus,106,10,retained_10_events
+18242,2024,2,49,Barcelona,Juventus,106,8,possession_changed
+18242,2027,2,49,Barcelona,Juventus,106,5,possession_changed
+18242,2046,2,50,Juventus,Barcelona,107,10,retained_10_events
+18242,2053,2,50,Juventus,Barcelona,107,10,retained_10_events
+18242,2066,2,50,Juventus,Barcelona,107,2,possession_changed
+18242,2081,2,51,Juventus,Barcelona,109,10,retained_10_events
+18242,2082,2,51,Juventus,Barcelona,109,10,retained_10_events
+18242,2119,2,51,Juventus,Barcelona,109,10,retained_10_events
+18242,2148,2,52,Juventus,Barcelona,109,10,retained_10_events
+18242,2182,2,52,Barcelona,Juventus,110,10,retained_10_events
+18242,2184,2,52,Barcelona,Juventus,110,10,retained_10_events
+18242,2198,2,52,Barcelona,Juventus,110,4,possession_changed
+18242,2206,2,52,Juventus,Barcelona,111,2,possession_changed
+18242,2221,2,53,Juventus,Barcelona,112,10,retained_10_events
+18242,2226,2,53,Juventus,Barcelona,112,8,possession_changed
+18242,2232,2,53,Juventus,Barcelona,112,2,possession_changed
+18242,2246,2,54,Barcelona,Juventus,114,10,retained_10_events
+18242,2250,2,54,Barcelona,Juventus,114,8,possession_changed
+18242,2253,2,54,Barcelona,Juventus,114,5,possession_changed
+18242,2268,2,55,Juventus,Barcelona,115,2,possession_changed
+18242,2280,2,55,Juventus,Barcelona,116,10,retained_10_events
+18242,2309,2,56,Barcelona,Juventus,117,2,possession_changed
+18242,2325,2,57,Barcelona,Juventus,118,4,possession_changed
+18242,2345,2,58,Juventus,Barcelona,120,1,possession_changed
+18242,2366,2,58,Barcelona,Juventus,121,5,possession_changed
+18242,2370,2,58,Barcelona,Juventus,121,1,possession_changed
+18242,2395,2,58,Barcelona,Juventus,124,10,retained_10_events
+18242,2402,2,59,Barcelona,Juventus,124,10,retained_10_events
+18242,2406,2,59,Barcelona,Juventus,124,10,retained_10_events
+18242,2408,2,59,Barcelona,Juventus,124,10,retained_10_events
+18242,2426,2,59,Barcelona,Juventus,124,8,possession_changed
+18242,2431,2,59,Barcelona,Juventus,124,3,possession_changed
+18242,2436,2,59,Juventus,Barcelona,125,10,retained_10_events
+18242,2448,2,59,Juventus,Barcelona,125,8,possession_changed
+18242,2455,2,59,Juventus,Barcelona,125,1,possession_changed
+18242,2474,2,60,Juventus,Barcelona,127,8,possession_changed
+18242,2508,2,61,Barcelona,Juventus,128,7,possession_changed
+18242,2512,2,61,Barcelona,Juventus,128,3,possession_changed
+18242,2531,2,61,Barcelona,Juventus,131,10,retained_10_events
+18242,2535,2,61,Barcelona,Juventus,131,10,retained_10_events
+18242,2542,2,61,Barcelona,Juventus,131,10,retained_10_events
+18242,2549,2,62,Barcelona,Juventus,131,7,possession_changed
+18242,2564,2,62,Juventus,Barcelona,132,10,retained_10_events
+18242,2577,2,63,Barcelona,Juventus,133,4,possession_changed
+18242,2583,2,63,Barcelona,Juventus,134,8,possession_changed
+18242,2589,2,63,Barcelona,Juventus,134,2,possession_changed
+18242,2601,2,64,Barcelona,Juventus,135,4,possession_changed
+18242,2650,2,65,Juventus,Barcelona,144,10,retained_10_events
+18242,2660,2,65,Juventus,Barcelona,144,2,possession_changed
+18242,2678,2,65,Barcelona,Juventus,146,10,retained_10_events
+18242,2688,2,65,Barcelona,Juventus,146,10,retained_10_events
+18242,2700,2,66,Barcelona,Juventus,146,10,retained_10_events
+18242,2727,2,66,Barcelona,Juventus,147,10,retained_10_events
+18242,2742,2,67,Barcelona,Juventus,147,3,possession_changed
+18242,2750,2,67,Juventus,Barcelona,148,10,retained_10_events
+18242,2772,2,69,Barcelona,Juventus,149,5,possession_changed
+18242,2775,2,69,Barcelona,Juventus,149,2,possession_changed
+18242,2796,2,70,Barcelona,Juventus,151,9,possession_changed
+18242,2820,2,72,Juventus,Barcelona,153,5,possession_changed
+18242,2832,2,73,Juventus,Barcelona,154,10,retained_10_events
+18242,2847,2,73,Barcelona,Juventus,155,10,retained_10_events
+18242,2872,2,73,Barcelona,Juventus,155,0,possession_changed
+18242,2876,2,73,Barcelona,Juventus,156,10,retained_10_events
+18242,2884,2,73,Barcelona,Juventus,156,6,possession_changed
+18242,2901,2,74,Juventus,Barcelona,159,10,retained_10_events
+18242,2912,2,75,Juventus,Barcelona,159,2,possession_changed
+18242,2923,2,77,Barcelona,Juventus,162,2,possession_changed
+18242,2948,2,79,Juventus,Barcelona,165,10,retained_10_events
+18242,2965,2,79,Barcelona,Juventus,166,2,possession_changed
+18242,2979,2,79,Barcelona,Juventus,167,4,possession_changed
+18242,2989,2,80,Juventus,Barcelona,168,8,possession_changed
+18242,3001,2,80,Juventus,Barcelona,169,2,possession_changed
+18242,3021,2,81,Juventus,Barcelona,170,3,possession_changed
+18242,3053,2,82,Barcelona,Juventus,171,10,retained_10_events
+18242,3057,2,82,Barcelona,Juventus,171,10,retained_10_events
+18242,3070,2,82,Barcelona,Juventus,171,5,possession_changed
+18242,3075,2,82,Barcelona,Juventus,171,0,possession_changed
+18242,3078,2,82,Juventus,Barcelona,172,2,possession_changed
+18242,3084,2,83,Juventus,Barcelona,173,4,possession_changed
+18242,3104,2,83,Juventus,Barcelona,174,10,retained_10_events
+18242,3111,2,83,Juventus,Barcelona,174,3,possession_changed
+18242,3118,2,84,Barcelona,Juventus,175,10,retained_10_events
+18242,3165,2,86,Barcelona,Juventus,177,10,retained_10_events
+18242,3182,2,87,Barcelona,Juventus,177,10,retained_10_events
+18242,3195,2,87,Barcelona,Juventus,177,6,possession_changed
+18242,3200,2,87,Barcelona,Juventus,177,1,possession_changed
+18242,3220,2,88,Barcelona,Juventus,180,8,possession_changed
+18242,3224,2,88,Barcelona,Juventus,180,4,possession_changed
+18242,3246,2,89,Barcelona,Juventus,181,1,possession_changed
+18242,3251,2,89,Juventus,Barcelona,182,10,retained_10_events
+18242,3258,2,89,Juventus,Barcelona,182,10,retained_10_events
+18242,3265,2,89,Juventus,Barcelona,182,5,possession_changed
+18242,3269,2,89,Juventus,Barcelona,182,1,possession_changed
+18242,3315,2,91,Barcelona,Juventus,185,10,retained_10_events
+18242,3327,2,91,Barcelona,Juventus,185,2,possession_changed
+18242,3332,2,92,Juventus,Barcelona,186,2,possession_changed
+18242,3355,2,92,Barcelona,Juventus,188,2,possession_changed
+18242,3356,2,93,Barcelona,Juventus,188,1,possession_changed
+18242,3362,2,93,Juventus,Barcelona,189,7,possession_changed
+18242,3366,2,93,Juventus,Barcelona,189,3,possession_changed
+18242,3373,2,93,Juventus,Barcelona,190,10,retained_10_events
+18242,3415,2,96,Juventus,Barcelona,194,10,retained_10_events
+18242,3427,2,96,Juventus,Barcelona,194,2,possession_changed
+18243,9,1,0,Real Madrid,Atlético Madrid,2,6,possession_changed
+18243,29,1,1,Atlético Madrid,Real Madrid,4,10,retained_10_events
+18243,43,1,1,Atlético Madrid,Real Madrid,4,10,retained_10_events
+18243,47,1,1,Atlético Madrid,Real Madrid,4,7,possession_changed
+18243,61,1,1,Atlético Madrid,Real Madrid,5,2,possession_changed
+18243,75,1,2,Real Madrid,Atlético Madrid,8,4,possession_changed
+18243,81,1,2,Real Madrid,Atlético Madrid,9,3,possession_changed
+18243,91,1,3,Atlético Madrid,Real Madrid,10,7,possession_changed
+18243,93,1,3,Atlético Madrid,Real Madrid,10,5,possession_changed
+18243,104,1,3,Atlético Madrid,Real Madrid,11,4,possession_changed
+18243,121,1,4,Real Madrid,Atlético Madrid,14,4,possession_changed
+18243,129,1,4,Real Madrid,Atlético Madrid,15,3,possession_changed
+18243,138,1,4,Atlético Madrid,Real Madrid,18,2,possession_changed
+18243,144,1,4,Atlético Madrid,Real Madrid,19,0,possession_changed
+18243,148,1,4,Atlético Madrid,Real Madrid,20,0,possession_changed
+18243,155,1,4,Atlético Madrid,Real Madrid,22,2,possession_changed
+18243,174,1,6,Atlético Madrid,Real Madrid,25,1,possession_changed
+18243,179,1,6,Real Madrid,Atlético Madrid,26,10,retained_10_events
+18243,181,1,6,Real Madrid,Atlético Madrid,26,9,possession_changed
+18243,204,1,6,Atlético Madrid,Real Madrid,27,2,possession_changed
+18243,227,1,7,Real Madrid,Atlético Madrid,30,10,retained_10_events
+18243,229,1,8,Real Madrid,Atlético Madrid,30,9,possession_changed
+18243,234,1,8,Real Madrid,Atlético Madrid,30,4,possession_changed
+18243,245,1,8,Atlético Madrid,Real Madrid,31,10,retained_10_events
+18243,262,1,8,Atlético Madrid,Real Madrid,31,10,retained_10_events
+18243,293,1,8,Atlético Madrid,Real Madrid,31,10,retained_10_events
+18243,300,1,8,Atlético Madrid,Real Madrid,31,3,possession_changed
+18243,315,1,9,Atlético Madrid,Real Madrid,32,10,retained_10_events
+18243,328,1,9,Atlético Madrid,Real Madrid,32,6,possession_changed
+18243,348,1,11,Real Madrid,Atlético Madrid,35,6,possession_changed
+18243,358,1,11,Atlético Madrid,Real Madrid,36,10,retained_10_events
+18243,388,1,12,Atlético Madrid,Real Madrid,37,10,retained_10_events
+18243,399,1,12,Atlético Madrid,Real Madrid,37,10,retained_10_events
+18243,423,1,12,Atlético Madrid,Real Madrid,37,1,possession_changed
+18243,427,1,12,Real Madrid,Atlético Madrid,38,6,possession_changed
+18243,442,1,13,Real Madrid,Atlético Madrid,39,4,possession_changed
+18243,461,1,13,Real Madrid,Atlético Madrid,41,7,possession_changed
+18243,491,1,13,Atlético Madrid,Real Madrid,42,4,possession_changed
+18243,508,1,15,Real Madrid,Atlético Madrid,44,10,retained_10_events
+18243,514,1,15,Real Madrid,Atlético Madrid,44,10,retained_10_events
+18243,523,1,15,Real Madrid,Atlético Madrid,44,10,retained_10_events
+18243,532,1,15,Real Madrid,Atlético Madrid,44,9,possession_changed
+18243,539,1,16,Real Madrid,Atlético Madrid,44,2,possession_changed
+18243,543,1,16,Atlético Madrid,Real Madrid,45,3,possession_changed
+18243,555,1,16,Real Madrid,Atlético Madrid,46,10,retained_10_events
+18243,565,1,16,Real Madrid,Atlético Madrid,46,10,retained_10_events
+18243,569,1,16,Real Madrid,Atlético Madrid,46,10,retained_10_events
+18243,573,1,16,Real Madrid,Atlético Madrid,46,10,retained_10_events
+18243,586,1,16,Real Madrid,Atlético Madrid,46,4,possession_changed
+18243,621,1,18,Atlético Madrid,Real Madrid,50,4,possession_changed
+18243,646,1,18,Atlético Madrid,Real Madrid,51,2,possession_changed
+18243,654,1,18,Real Madrid,Atlético Madrid,52,10,retained_10_events
+18243,663,1,18,Real Madrid,Atlético Madrid,52,10,retained_10_events
+18243,675,1,19,Real Madrid,Atlético Madrid,52,10,retained_10_events
+18243,696,1,19,Atlético Madrid,Real Madrid,53,10,retained_10_events
+18243,709,1,19,Atlético Madrid,Real Madrid,53,10,retained_10_events
+18243,728,1,19,Atlético Madrid,Real Madrid,53,3,possession_changed
+18243,738,1,20,Atlético Madrid,Real Madrid,54,10,retained_10_events
+18243,769,1,21,Real Madrid,Atlético Madrid,57,3,possession_changed
+18243,778,1,21,Real Madrid,Atlético Madrid,58,4,possession_changed
+18243,813,1,22,Real Madrid,Atlético Madrid,60,10,retained_10_events
+18243,824,1,22,Real Madrid,Atlético Madrid,60,4,possession_changed
+18243,830,1,22,Atlético Madrid,Real Madrid,61,8,possession_changed
+18243,842,1,22,Atlético Madrid,Real Madrid,62,10,retained_10_events
+18243,850,1,22,Atlético Madrid,Real Madrid,62,10,retained_10_events
+18243,874,1,23,Atlético Madrid,Real Madrid,62,10,retained_10_events
+18243,881,1,23,Atlético Madrid,Real Madrid,62,10,retained_10_events
+18243,898,1,23,Atlético Madrid,Real Madrid,62,7,possession_changed
+18243,904,1,23,Atlético Madrid,Real Madrid,62,1,possession_changed
+18243,908,1,23,Real Madrid,Atlético Madrid,63,10,retained_10_events
+18243,914,1,23,Real Madrid,Atlético Madrid,63,10,retained_10_events
+18243,933,1,24,Real Madrid,Atlético Madrid,63,10,retained_10_events
+18243,976,1,25,Atlético Madrid,Real Madrid,66,10,retained_10_events
+18243,995,1,25,Atlético Madrid,Real Madrid,66,10,retained_10_events
+18243,1021,1,26,Atlético Madrid,Real Madrid,66,10,retained_10_events
+18243,1033,1,26,Atlético Madrid,Real Madrid,66,10,retained_10_events
+18243,1115,1,28,Real Madrid,Atlético Madrid,71,10,retained_10_events
+18243,1130,1,28,Real Madrid,Atlético Madrid,71,10,retained_10_events
+18243,1138,1,28,Real Madrid,Atlético Madrid,71,10,retained_10_events
+18243,1153,1,29,Real Madrid,Atlético Madrid,71,10,retained_10_events
+18243,1271,1,32,Atlético Madrid,Real Madrid,76,4,possession_changed
+18243,1280,1,32,Real Madrid,Atlético Madrid,77,10,retained_10_events
+18243,1321,1,32,Real Madrid,Atlético Madrid,78,10,retained_10_events
+18243,1333,1,33,Real Madrid,Atlético Madrid,78,10,retained_10_events
+18243,1349,1,33,Real Madrid,Atlético Madrid,78,3,possession_changed
+18243,1388,1,34,Atlético Madrid,Real Madrid,84,10,retained_10_events
+18243,1392,1,34,Atlético Madrid,Real Madrid,84,8,possession_changed
+18243,1424,1,34,Real Madrid,Atlético Madrid,85,10,retained_10_events
+18243,1428,1,34,Real Madrid,Atlético Madrid,85,9,possession_changed
+18243,1435,1,34,Real Madrid,Atlético Madrid,85,2,possession_changed
+18243,1468,1,35,Atlético Madrid,Real Madrid,86,6,possession_changed
+18243,1484,1,36,Real Madrid,Atlético Madrid,87,10,retained_10_events
+18243,1517,1,36,Real Madrid,Atlético Madrid,87,10,retained_10_events
+18243,1527,1,36,Real Madrid,Atlético Madrid,87,10,retained_10_events
+18243,1532,1,36,Real Madrid,Atlético Madrid,87,10,retained_10_events
+18243,1541,1,36,Real Madrid,Atlético Madrid,87,7,possession_changed
+18243,1558,1,37,Real Madrid,Atlético Madrid,89,10,retained_10_events
+18243,1563,1,37,Real Madrid,Atlético Madrid,89,7,possession_changed
+18243,1604,1,38,Real Madrid,Atlético Madrid,92,10,retained_10_events
+18243,1614,1,38,Real Madrid,Atlético Madrid,92,10,retained_10_events
+18243,1621,1,38,Real Madrid,Atlético Madrid,92,6,possession_changed
+18243,1634,1,38,Real Madrid,Atlético Madrid,93,5,possession_changed
+18243,1647,1,39,Real Madrid,Atlético Madrid,96,10,retained_10_events
+18243,1673,1,40,Atlético Madrid,Real Madrid,97,10,retained_10_events
+18243,1675,1,40,Atlético Madrid,Real Madrid,97,10,retained_10_events
+18243,1725,1,40,Real Madrid,Atlético Madrid,99,7,possession_changed
+18243,1759,1,41,Real Madrid,Atlético Madrid,101,10,retained_10_events
+18243,1769,1,41,Real Madrid,Atlético Madrid,101,10,retained_10_events
+18243,1773,1,41,Real Madrid,Atlético Madrid,101,10,retained_10_events
+18243,1795,1,42,Real Madrid,Atlético Madrid,101,9,possession_changed
+18243,1812,1,42,Atlético Madrid,Real Madrid,102,10,retained_10_events
+18243,1855,1,43,Atlético Madrid,Real Madrid,104,1,possession_changed
+18243,1867,1,44,Real Madrid,Atlético Madrid,105,10,retained_10_events
+18243,1871,1,44,Real Madrid,Atlético Madrid,105,10,retained_10_events
+18243,1979,2,45,Atlético Madrid,Real Madrid,109,6,possession_changed
+18243,1998,2,45,Real Madrid,Atlético Madrid,110,6,possession_changed
+18243,2015,2,45,Real Madrid,Atlético Madrid,111,7,possession_changed
+18243,2034,2,47,Real Madrid,Atlético Madrid,112,10,retained_10_events
+18243,2063,2,48,Real Madrid,Atlético Madrid,112,4,possession_changed
+18243,2088,2,48,Real Madrid,Atlético Madrid,115,4,possession_changed
+18243,2127,2,52,Real Madrid,Atlético Madrid,123,10,retained_10_events
+18243,2129,2,52,Real Madrid,Atlético Madrid,123,10,retained_10_events
+18243,2135,2,52,Real Madrid,Atlético Madrid,123,10,retained_10_events
+18243,2159,2,52,Real Madrid,Atlético Madrid,123,10,retained_10_events
+18243,2167,2,53,Real Madrid,Atlético Madrid,123,6,possession_changed
+18243,2171,2,53,Real Madrid,Atlético Madrid,123,2,possession_changed
+18243,2194,2,54,Real Madrid,Atlético Madrid,126,7,possession_changed
+18243,2196,2,54,Real Madrid,Atlético Madrid,126,5,possession_changed
+18243,2213,2,55,Atlético Madrid,Real Madrid,127,8,possession_changed
+18243,2224,2,55,Real Madrid,Atlético Madrid,128,2,possession_changed
+18243,2239,2,55,Atlético Madrid,Real Madrid,131,6,possession_changed
+18243,2243,2,55,Atlético Madrid,Real Madrid,131,2,possession_changed
+18243,2265,2,57,Real Madrid,Atlético Madrid,134,10,retained_10_events
+18243,2271,2,57,Real Madrid,Atlético Madrid,134,10,retained_10_events
+18243,2275,2,57,Real Madrid,Atlético Madrid,134,10,retained_10_events
+18243,2279,2,57,Real Madrid,Atlético Madrid,134,8,possession_changed
+18243,2319,2,58,Real Madrid,Atlético Madrid,138,10,retained_10_events
+18243,2320,2,58,Real Madrid,Atlético Madrid,138,10,retained_10_events
+18243,2341,2,59,Atlético Madrid,Real Madrid,139,10,retained_10_events
+18243,2345,2,59,Atlético Madrid,Real Madrid,139,10,retained_10_events
+18243,2352,2,59,Atlético Madrid,Real Madrid,139,10,retained_10_events
+18243,2361,2,59,Atlético Madrid,Real Madrid,139,6,possession_changed
+18243,2373,2,59,Real Madrid,Atlético Madrid,140,7,possession_changed
+18243,2407,2,61,Real Madrid,Atlético Madrid,142,10,retained_10_events
+18243,2419,2,61,Real Madrid,Atlético Madrid,142,3,possession_changed
+18243,2443,2,61,Atlético Madrid,Real Madrid,143,5,possession_changed
+18243,2479,2,62,Real Madrid,Atlético Madrid,144,10,retained_10_events
+18243,2486,2,62,Real Madrid,Atlético Madrid,144,10,retained_10_events
+18243,2518,2,63,Real Madrid,Atlético Madrid,146,3,possession_changed
+18243,2519,2,63,Real Madrid,Atlético Madrid,146,2,possession_changed
+18243,2550,2,64,Atlético Madrid,Real Madrid,149,4,possession_changed
+18243,2553,2,64,Atlético Madrid,Real Madrid,149,1,possession_changed
+18243,2562,2,65,Real Madrid,Atlético Madrid,151,10,retained_10_events
+18243,2577,2,66,Atlético Madrid,Real Madrid,152,10,retained_10_events
+18243,2585,2,66,Atlético Madrid,Real Madrid,152,2,possession_changed
+18243,2613,2,68,Atlético Madrid,Real Madrid,156,5,possession_changed
+18243,2615,2,68,Atlético Madrid,Real Madrid,156,3,possession_changed
+18243,2633,2,68,Atlético Madrid,Real Madrid,158,10,retained_10_events
+18243,2637,2,68,Atlético Madrid,Real Madrid,158,10,retained_10_events
+18243,2644,2,68,Atlético Madrid,Real Madrid,158,10,retained_10_events
+18243,2662,2,69,Atlético Madrid,Real Madrid,158,0,possession_changed
+18243,2681,2,69,Real Madrid,Atlético Madrid,159,10,retained_10_events
+18243,2685,2,69,Real Madrid,Atlético Madrid,159,7,possession_changed
+18243,2702,2,69,Atlético Madrid,Real Madrid,160,10,retained_10_events
+18243,2720,2,70,Atlético Madrid,Real Madrid,161,7,possession_changed
+18243,2746,2,70,Atlético Madrid,Real Madrid,163,10,retained_10_events
+18243,2756,2,71,Atlético Madrid,Real Madrid,163,1,possession_changed
+18243,2771,2,71,Real Madrid,Atlético Madrid,165,10,retained_10_events
+18243,2794,2,72,Real Madrid,Atlético Madrid,165,9,possession_changed
+18243,2819,2,73,Real Madrid,Atlético Madrid,168,10,retained_10_events
+18243,2821,2,73,Real Madrid,Atlético Madrid,168,10,retained_10_events
+18243,2827,2,73,Real Madrid,Atlético Madrid,168,5,possession_changed
+18243,2844,2,74,Atlético Madrid,Real Madrid,169,3,possession_changed
+18243,2854,2,74,Real Madrid,Atlético Madrid,170,10,retained_10_events
+18243,2856,2,74,Real Madrid,Atlético Madrid,170,10,retained_10_events
+18243,2865,2,74,Real Madrid,Atlético Madrid,170,10,retained_10_events
+18243,2886,2,75,Real Madrid,Atlético Madrid,170,9,possession_changed
+18243,2903,2,75,Real Madrid,Atlético Madrid,172,10,retained_10_events
+18243,2925,2,76,Atlético Madrid,Real Madrid,174,2,possession_changed
+18243,2934,2,77,Atlético Madrid,Real Madrid,175,10,retained_10_events
+18243,2941,2,77,Atlético Madrid,Real Madrid,175,7,possession_changed
+18243,2954,2,77,Real Madrid,Atlético Madrid,177,0,possession_changed
+18243,2973,2,77,Real Madrid,Atlético Madrid,179,4,possession_changed
+18243,2982,2,77,Atlético Madrid,Real Madrid,180,10,retained_10_events
+18243,2991,2,77,Atlético Madrid,Real Madrid,180,10,retained_10_events
+18243,3010,2,78,Real Madrid,Atlético Madrid,181,10,retained_10_events
+18243,3032,2,78,Real Madrid,Atlético Madrid,182,10,retained_10_events
+18243,3036,2,78,Real Madrid,Atlético Madrid,182,6,possession_changed
+18243,3055,2,80,Atlético Madrid,Real Madrid,183,10,retained_10_events
+18243,3063,2,80,Atlético Madrid,Real Madrid,183,10,retained_10_events
+18243,3072,2,80,Atlético Madrid,Real Madrid,183,1,possession_changed
+18243,3083,2,80,Real Madrid,Atlético Madrid,184,3,possession_changed
+18243,3099,2,81,Real Madrid,Atlético Madrid,185,10,retained_10_events
+18243,3103,2,81,Real Madrid,Atlético Madrid,185,10,retained_10_events
+18243,3117,2,81,Real Madrid,Atlético Madrid,185,10,retained_10_events
+18243,3123,2,81,Real Madrid,Atlético Madrid,185,10,retained_10_events
+18243,3127,2,81,Real Madrid,Atlético Madrid,185,10,retained_10_events
+18243,3133,2,81,Real Madrid,Atlético Madrid,185,10,retained_10_events
+18243,3150,2,81,Real Madrid,Atlético Madrid,185,9,possession_changed
+18243,3184,2,82,Real Madrid,Atlético Madrid,186,10,retained_10_events
+18243,3188,2,82,Real Madrid,Atlético Madrid,186,10,retained_10_events
+18243,3198,2,82,Real Madrid,Atlético Madrid,186,4,possession_changed
+18243,3222,2,83,Atlético Madrid,Real Madrid,187,10,retained_10_events
+18243,3257,2,83,Atlético Madrid,Real Madrid,187,10,retained_10_events
+18243,3266,2,83,Atlético Madrid,Real Madrid,187,10,retained_10_events
+18243,3350,2,86,Real Madrid,Atlético Madrid,189,10,retained_10_events
+18243,3393,2,86,Atlético Madrid,Real Madrid,190,0,possession_changed
+18243,3395,2,87,Real Madrid,Atlético Madrid,191,7,possession_changed
+18243,3397,2,87,Real Madrid,Atlético Madrid,191,5,possession_changed
+18243,3408,2,87,Atlético Madrid,Real Madrid,192,10,retained_10_events
+18243,3470,2,89,Real Madrid,Atlético Madrid,194,10,retained_10_events
+18243,3474,2,89,Real Madrid,Atlético Madrid,194,10,retained_10_events
+18243,3488,2,89,Real Madrid,Atlético Madrid,194,5,possession_changed
+18243,3507,2,90,Atlético Madrid,Real Madrid,196,5,possession_changed
+18243,3510,2,90,Atlético Madrid,Real Madrid,196,2,possession_changed
+18243,3511,2,90,Atlético Madrid,Real Madrid,196,1,possession_changed
+18243,3516,2,90,Real Madrid,Atlético Madrid,197,10,retained_10_events
+18243,3526,2,90,Real Madrid,Atlético Madrid,197,10,retained_10_events
+18243,3548,2,91,Real Madrid,Atlético Madrid,198,1,possession_changed
+18243,3581,3,90,Atlético Madrid,Real Madrid,202,10,retained_10_events
+18243,3588,3,90,Atlético Madrid,Real Madrid,202,10,retained_10_events
+18243,3593,3,90,Atlético Madrid,Real Madrid,202,10,retained_10_events
+18243,3602,3,90,Atlético Madrid,Real Madrid,202,2,possession_changed
+18243,3611,3,90,Real Madrid,Atlético Madrid,203,9,possession_changed
+18243,3619,3,90,Real Madrid,Atlético Madrid,203,1,possession_changed
+18243,3627,3,90,Atlético Madrid,Real Madrid,204,10,retained_10_events
+18243,3646,3,90,Atlético Madrid,Real Madrid,204,3,possession_changed
+18243,3655,3,91,Real Madrid,Atlético Madrid,205,5,possession_changed
+18243,3664,3,91,Atlético Madrid,Real Madrid,206,10,retained_10_events
+18243,3698,3,92,Real Madrid,Atlético Madrid,210,6,possession_changed
+18243,3707,3,92,Atlético Madrid,Real Madrid,211,10,retained_10_events
+18243,3713,3,92,Atlético Madrid,Real Madrid,211,7,possession_changed
+18243,3736,3,93,Atlético Madrid,Real Madrid,213,2,possession_changed
+18243,3752,3,94,Real Madrid,Atlético Madrid,218,0,possession_changed
+18243,3770,3,94,Real Madrid,Atlético Madrid,225,5,possession_changed
+18243,3800,3,95,Real Madrid,Atlético Madrid,227,10,retained_10_events
+18243,3810,3,95,Real Madrid,Atlético Madrid,227,7,possession_changed
+18243,3829,3,95,Atlético Madrid,Real Madrid,228,4,possession_changed
+18243,3837,3,95,Real Madrid,Atlético Madrid,229,10,retained_10_events
+18243,3862,3,96,Real Madrid,Atlético Madrid,229,10,retained_10_events
+18243,3869,3,96,Real Madrid,Atlético Madrid,229,10,retained_10_events
+18243,3881,3,96,Real Madrid,Atlético Madrid,229,10,retained_10_events
+18243,3893,3,96,Real Madrid,Atlético Madrid,229,10,retained_10_events
+18243,3928,3,97,Real Madrid,Atlético Madrid,229,10,retained_10_events
+18243,3932,3,97,Real Madrid,Atlético Madrid,229,10,retained_10_events
+18243,3955,3,98,Real Madrid,Atlético Madrid,230,1,possession_changed
+18243,3974,3,99,Real Madrid,Atlético Madrid,234,7,possession_changed
+18243,3989,3,100,Real Madrid,Atlético Madrid,236,2,possession_changed
+18243,3993,3,100,Atlético Madrid,Real Madrid,237,10,retained_10_events
+18243,4052,3,101,Atlético Madrid,Real Madrid,239,10,retained_10_events
+18243,4077,3,102,Atlético Madrid,Real Madrid,239,5,possession_changed
+18243,4109,3,103,Atlético Madrid,Real Madrid,241,3,possession_changed
+18243,4122,3,103,Real Madrid,Atlético Madrid,242,10,retained_10_events
+18243,4147,3,103,Real Madrid,Atlético Madrid,242,10,retained_10_events
+18243,4148,3,103,Real Madrid,Atlético Madrid,242,10,retained_10_events
+18243,4184,3,104,Real Madrid,Atlético Madrid,242,10,retained_10_events
+18243,4214,4,105,Real Madrid,Atlético Madrid,244,10,retained_10_events
+18243,4234,4,105,Real Madrid,Atlético Madrid,244,9,possession_changed
+18243,4239,4,105,Real Madrid,Atlético Madrid,244,4,possession_changed
+18243,4259,4,106,Atlético Madrid,Real Madrid,245,10,retained_10_events
+18243,4280,4,108,Real Madrid,Atlético Madrid,247,5,possession_changed
+18243,4284,4,108,Real Madrid,Atlético Madrid,247,1,possession_changed
+18243,4289,4,108,Atlético Madrid,Real Madrid,248,2,possession_changed
+18243,4303,4,109,Atlético Madrid,Real Madrid,249,10,retained_10_events
+18243,4308,4,109,Atlético Madrid,Real Madrid,249,5,possession_changed
+18243,4311,4,109,Atlético Madrid,Real Madrid,249,2,possession_changed
+18243,4342,4,111,Real Madrid,Atlético Madrid,252,10,retained_10_events
+18243,4354,4,111,Real Madrid,Atlético Madrid,252,10,retained_10_events
+18243,4371,4,111,Real Madrid,Atlético Madrid,252,10,retained_10_events
+18243,4433,4,116,Atlético Madrid,Real Madrid,255,10,retained_10_events
+18243,4466,4,116,Real Madrid,Atlético Madrid,257,10,retained_10_events
+18243,4468,4,116,Real Madrid,Atlético Madrid,257,10,retained_10_events
+18243,4505,4,117,Atlético Madrid,Real Madrid,258,10,retained_10_events
+18243,4509,4,117,Atlético Madrid,Real Madrid,258,10,retained_10_events
+18243,4510,4,117,Atlético Madrid,Real Madrid,258,10,retained_10_events
+18243,4551,4,118,Atlético Madrid,Real Madrid,258,10,retained_10_events
+18243,4555,4,118,Atlético Madrid,Real Madrid,258,10,retained_10_events
+18243,4565,4,118,Atlético Madrid,Real Madrid,258,10,retained_10_events
+18243,4569,4,118,Atlético Madrid,Real Madrid,258,10,retained_10_events
+18243,4616,4,119,Atlético Madrid,Real Madrid,260,10,retained_10_events
+18243,4644,4,119,Real Madrid,Atlético Madrid,261,4,possession_changed
+18243,4672,4,121,Atlético Madrid,Real Madrid,263,5,possession_changed
+18243,4684,4,122,Atlético Madrid,Real Madrid,264,2,period_ended
+18244,14,1,0,Real Madrid,Juventus,3,10,retained_10_events
+18244,26,1,0,Real Madrid,Juventus,3,10,retained_10_events
+18244,27,1,0,Real Madrid,Juventus,3,10,retained_10_events
+18244,34,1,0,Real Madrid,Juventus,3,10,retained_10_events
+18244,43,1,0,Real Madrid,Juventus,3,10,retained_10_events
+18244,57,1,0,Juventus,Real Madrid,4,7,possession_changed
+18244,76,1,1,Real Madrid,Juventus,6,10,retained_10_events
+18244,80,1,1,Real Madrid,Juventus,6,10,retained_10_events
+18244,100,1,1,Juventus,Real Madrid,7,10,retained_10_events
+18244,119,1,2,Juventus,Real Madrid,7,2,possession_changed
+18244,130,1,2,Real Madrid,Juventus,9,10,retained_10_events
+18244,140,1,2,Real Madrid,Juventus,9,10,retained_10_events
+18244,149,1,2,Real Madrid,Juventus,9,6,possession_changed
+18244,163,1,2,Juventus,Real Madrid,12,0,possession_changed
+18244,226,1,4,Juventus,Real Madrid,26,10,retained_10_events
+18244,248,1,5,Juventus,Real Madrid,26,10,retained_10_events
+18244,283,1,5,Real Madrid,Juventus,28,10,retained_10_events
+18244,290,1,5,Real Madrid,Juventus,28,10,retained_10_events
+18244,305,1,5,Real Madrid,Juventus,28,10,retained_10_events
+18244,356,1,7,Juventus,Real Madrid,31,1,possession_changed
+18244,371,1,7,Juventus,Real Madrid,33,2,possession_changed
+18244,385,1,8,Juventus,Real Madrid,34,4,possession_changed
+18244,431,1,8,Real Madrid,Juventus,37,10,retained_10_events
+18244,433,1,9,Real Madrid,Juventus,37,10,retained_10_events
+18244,449,1,9,Real Madrid,Juventus,37,10,retained_10_events
+18244,455,1,9,Real Madrid,Juventus,37,9,possession_changed
+18244,460,1,9,Real Madrid,Juventus,37,4,possession_changed
+18244,475,1,9,Juventus,Real Madrid,38,10,retained_10_events
+18244,481,1,9,Juventus,Real Madrid,38,10,retained_10_events
+18244,485,1,9,Juventus,Real Madrid,38,10,retained_10_events
+18244,490,1,9,Juventus,Real Madrid,38,8,possession_changed
+18244,494,1,9,Juventus,Real Madrid,38,4,possession_changed
+18244,516,1,10,Real Madrid,Juventus,40,10,retained_10_events
+18244,563,1,11,Real Madrid,Juventus,40,2,possession_changed
+18244,569,1,11,Juventus,Real Madrid,41,10,retained_10_events
+18244,591,1,12,Juventus,Real Madrid,41,4,possession_changed
+18244,601,1,12,Real Madrid,Juventus,42,3,possession_changed
+18244,627,1,13,Juventus,Real Madrid,44,10,retained_10_events
+18244,664,1,13,Juventus,Real Madrid,44,10,retained_10_events
+18244,677,1,13,Juventus,Real Madrid,44,10,retained_10_events
+18244,684,1,13,Juventus,Real Madrid,44,10,retained_10_events
+18244,694,1,14,Juventus,Real Madrid,44,4,possession_changed
+18244,702,1,14,Real Madrid,Juventus,45,6,possession_changed
+18244,720,1,15,Juventus,Real Madrid,47,10,retained_10_events
+18244,733,1,15,Juventus,Real Madrid,47,10,retained_10_events
+18244,736,1,15,Juventus,Real Madrid,47,10,retained_10_events
+18244,740,1,15,Juventus,Real Madrid,47,10,retained_10_events
+18244,774,1,16,Juventus,Real Madrid,47,10,retained_10_events
+18244,786,1,16,Juventus,Real Madrid,47,10,retained_10_events
+18244,811,1,16,Juventus,Real Madrid,47,10,retained_10_events
+18244,813,1,16,Juventus,Real Madrid,47,9,possession_changed
+18244,817,1,16,Juventus,Real Madrid,47,5,possession_changed
+18244,839,1,17,Real Madrid,Juventus,49,5,possession_changed
+18244,887,1,18,Real Madrid,Juventus,53,10,retained_10_events
+18244,891,1,18,Real Madrid,Juventus,53,7,possession_changed
+18244,895,1,18,Real Madrid,Juventus,53,3,possession_changed
+18244,901,1,19,Juventus,Real Madrid,54,10,retained_10_events
+18244,926,1,19,Juventus,Real Madrid,54,10,retained_10_events
+18244,927,1,19,Juventus,Real Madrid,54,10,retained_10_events
+18244,957,1,21,Real Madrid,Juventus,56,10,retained_10_events
+18244,967,1,21,Real Madrid,Juventus,56,10,retained_10_events
+18244,987,1,21,Real Madrid,Juventus,56,10,retained_10_events
+18244,1022,1,22,Real Madrid,Juventus,56,2,possession_changed
+18244,1039,1,22,Real Madrid,Juventus,57,3,possession_changed
+18244,1061,1,23,Real Madrid,Juventus,60,10,retained_10_events
+18244,1113,1,23,Real Madrid,Juventus,60,10,retained_10_events
+18244,1120,1,24,Real Madrid,Juventus,60,10,retained_10_events
+18244,1159,1,24,Juventus,Real Madrid,61,10,retained_10_events
+18244,1163,1,25,Juventus,Real Madrid,61,10,retained_10_events
+18244,1206,1,25,Juventus,Real Madrid,63,7,possession_changed
+18244,1241,1,26,Real Madrid,Juventus,64,5,possession_changed
+18244,1259,1,27,Real Madrid,Juventus,66,7,possession_changed
+18244,1272,1,28,Juventus,Real Madrid,67,10,retained_10_events
+18244,1294,1,28,Juventus,Real Madrid,67,9,possession_changed
+18244,1301,1,28,Juventus,Real Madrid,67,2,possession_changed
+18244,1317,1,29,Real Madrid,Juventus,69,10,retained_10_events
+18244,1337,1,29,Real Madrid,Juventus,71,4,possession_changed
+18244,1359,1,30,Juventus,Real Madrid,72,10,retained_10_events
+18244,1369,1,30,Juventus,Real Madrid,72,10,retained_10_events
+18244,1395,1,31,Real Madrid,Juventus,74,4,possession_changed
+18244,1397,1,31,Real Madrid,Juventus,74,2,possession_changed
+18244,1439,1,32,Juventus,Real Madrid,76,10,retained_10_events
+18244,1453,1,32,Real Madrid,Juventus,77,10,retained_10_events
+18244,1458,1,32,Real Madrid,Juventus,77,10,retained_10_events
+18244,1489,1,34,Real Madrid,Juventus,78,0,possession_changed
+18244,1541,1,36,Real Madrid,Juventus,84,5,possession_changed
+18244,1577,1,39,Real Madrid,Juventus,90,6,possession_changed
+18244,1598,1,40,Juventus,Real Madrid,92,9,possession_changed
+18244,1617,1,40,Real Madrid,Juventus,93,3,possession_changed
+18244,1624,1,40,Juventus,Real Madrid,94,7,possession_changed
+18244,1630,1,41,Juventus,Real Madrid,94,1,possession_changed
+18244,1636,1,41,Real Madrid,Juventus,95,2,possession_changed
+18244,1641,1,41,Real Madrid,Juventus,96,7,possession_changed
+18244,1646,1,41,Real Madrid,Juventus,96,2,possession_changed
+18244,1651,1,41,Juventus,Real Madrid,97,2,possession_changed
+18244,1662,1,42,Juventus,Real Madrid,98,10,retained_10_events
+18244,1669,1,42,Juventus,Real Madrid,98,10,retained_10_events
+18244,1691,1,42,Juventus,Real Madrid,98,10,retained_10_events
+18244,1693,1,42,Juventus,Real Madrid,98,10,retained_10_events
+18244,1697,1,42,Juventus,Real Madrid,98,10,retained_10_events
+18244,1739,1,43,Juventus,Real Madrid,100,2,possession_changed
+18244,1757,1,43,Juventus,Real Madrid,101,10,retained_10_events
+18244,1761,1,43,Juventus,Real Madrid,101,10,retained_10_events
+18244,1778,1,44,Juventus,Real Madrid,101,10,retained_10_events
+18244,1799,1,44,Juventus,Real Madrid,101,5,possession_changed
+18244,1813,1,45,Juventus,Real Madrid,103,10,retained_10_events
+18244,1846,1,45,Real Madrid,Juventus,104,10,retained_10_events
+18244,1851,1,45,Real Madrid,Juventus,104,6,possession_changed
+18244,1868,1,46,Juventus,Real Madrid,105,10,retained_10_events
+18244,1905,2,45,Juventus,Real Madrid,107,10,retained_10_events
+18244,1909,2,45,Juventus,Real Madrid,107,10,retained_10_events
+18244,1945,2,45,Real Madrid,Juventus,108,10,retained_10_events
+18244,1961,2,46,Real Madrid,Juventus,108,2,possession_changed
+18244,1974,2,46,Juventus,Real Madrid,110,5,possession_changed
+18244,2019,2,49,Real Madrid,Juventus,113,10,retained_10_events
+18244,2023,2,49,Real Madrid,Juventus,113,10,retained_10_events
+18244,2027,2,49,Real Madrid,Juventus,113,10,retained_10_events
+18244,2043,2,50,Real Madrid,Juventus,113,6,possession_changed
+18244,2047,2,50,Real Madrid,Juventus,113,2,possession_changed
+18244,2058,2,50,Juventus,Real Madrid,114,10,retained_10_events
+18244,2087,2,50,Real Madrid,Juventus,115,9,possession_changed
+18244,2112,2,52,Real Madrid,Juventus,117,10,retained_10_events
+18244,2116,2,52,Real Madrid,Juventus,117,7,possession_changed
+18244,2120,2,52,Real Madrid,Juventus,117,3,possession_changed
+18244,2134,2,52,Real Madrid,Juventus,118,1,possession_changed
+18244,2138,2,52,Juventus,Real Madrid,119,6,possession_changed
+18244,2139,2,53,Juventus,Real Madrid,119,5,possession_changed
+18244,2159,2,53,Juventus,Real Madrid,120,10,retained_10_events
+18244,2169,2,53,Juventus,Real Madrid,120,10,retained_10_events
+18244,2188,2,54,Juventus,Real Madrid,122,4,possession_changed
+18244,2201,2,54,Real Madrid,Juventus,123,4,possession_changed
+18244,2210,2,54,Juventus,Real Madrid,124,10,retained_10_events
+18244,2235,2,55,Real Madrid,Juventus,125,7,possession_changed
+18244,2253,2,56,Real Madrid,Juventus,127,10,retained_10_events
+18244,2269,2,56,Real Madrid,Juventus,127,1,possession_changed
+18244,2300,2,57,Juventus,Real Madrid,128,10,retained_10_events
+18244,2446,2,61,Real Madrid,Juventus,137,8,possession_changed
+18244,2452,2,62,Real Madrid,Juventus,137,2,possession_changed
+18244,2508,2,65,Real Madrid,Juventus,140,8,possession_changed
+18244,2512,2,65,Real Madrid,Juventus,140,4,possession_changed
+18244,2532,2,66,Juventus,Real Madrid,142,5,possession_changed
+18244,2540,2,66,Juventus,Real Madrid,143,6,possession_changed
+18244,2615,2,68,Juventus,Real Madrid,146,10,retained_10_events
+18244,2624,2,68,Juventus,Real Madrid,146,1,possession_changed
+18244,2630,2,68,Real Madrid,Juventus,147,10,retained_10_events
+18244,2637,2,68,Real Madrid,Juventus,147,10,retained_10_events
+18244,2650,2,69,Real Madrid,Juventus,147,2,possession_changed
+18244,2680,2,69,Real Madrid,Juventus,148,2,possession_changed
+18244,2681,2,69,Real Madrid,Juventus,148,1,possession_changed
+18244,2695,2,70,Juventus,Real Madrid,150,3,possession_changed
+18244,2698,2,70,Juventus,Real Madrid,150,0,possession_changed
+18244,2704,2,70,Real Madrid,Juventus,151,1,possession_changed
+18244,2723,2,71,Juventus,Real Madrid,153,10,retained_10_events
+18244,2728,2,71,Juventus,Real Madrid,153,10,retained_10_events
+18244,2738,2,72,Juventus,Real Madrid,153,10,retained_10_events
+18244,2787,2,73,Juventus,Real Madrid,157,10,retained_10_events
+18244,2800,2,73,Juventus,Real Madrid,157,10,retained_10_events
+18244,2859,2,74,Juventus,Real Madrid,158,10,retained_10_events
+18244,2907,2,75,Juventus,Real Madrid,160,10,retained_10_events
+18244,2917,2,75,Juventus,Real Madrid,160,4,possession_changed
+18244,2935,2,77,Juventus,Real Madrid,161,3,possession_changed
+18244,2980,2,79,Juventus,Real Madrid,164,10,retained_10_events
+18244,2990,2,79,Juventus,Real Madrid,164,10,retained_10_events
+18244,2996,2,79,Juventus,Real Madrid,164,10,retained_10_events
+18244,3035,2,82,Real Madrid,Juventus,168,10,retained_10_events
+18244,3063,2,83,Real Madrid,Juventus,169,2,possession_changed
+18244,3068,2,83,Juventus,Real Madrid,170,10,retained_10_events
+18244,3075,2,84,Juventus,Real Madrid,170,10,retained_10_events
+18244,3080,2,84,Juventus,Real Madrid,170,7,possession_changed
+18244,3083,2,84,Juventus,Real Madrid,170,4,possession_changed
+18244,3093,2,84,Real Madrid,Juventus,171,10,retained_10_events
+18244,3098,2,84,Real Madrid,Juventus,171,10,retained_10_events
+18244,3107,2,84,Real Madrid,Juventus,171,10,retained_10_events
+18244,3116,2,84,Real Madrid,Juventus,171,10,retained_10_events
+18244,3166,2,86,Real Madrid,Juventus,173,10,retained_10_events
+18244,3176,2,86,Real Madrid,Juventus,173,3,possession_changed
+18244,3192,2,86,Juventus,Real Madrid,174,4,possession_changed
+18244,3217,2,87,Real Madrid,Juventus,175,3,possession_changed
+18244,3229,2,87,Juventus,Real Madrid,176,10,retained_10_events
+18244,3290,2,89,Juventus,Real Madrid,179,10,retained_10_events
+18244,3296,2,89,Juventus,Real Madrid,179,4,possession_changed
+18244,3310,2,91,Juventus,Real Madrid,181,8,possession_changed
+18244,3326,2,92,Juventus,Real Madrid,182,10,retained_10_events
+18244,3371,2,93,Juventus,Real Madrid,182,10,retained_10_events
+18244,3375,2,93,Juventus,Real Madrid,182,10,retained_10_events
+18244,3381,2,93,Juventus,Real Madrid,182,10,retained_10_events
+18245,13,1,0,Liverpool,Real Madrid,3,10,retained_10_events
+18245,16,1,0,Liverpool,Real Madrid,3,9,possession_changed
+18245,23,1,0,Liverpool,Real Madrid,3,2,possession_changed
+18245,27,1,0,Real Madrid,Liverpool,4,10,retained_10_events
+18245,35,1,0,Real Madrid,Liverpool,4,9,possession_changed
+18245,68,1,1,Liverpool,Real Madrid,5,10,retained_10_events
+18245,76,1,1,Liverpool,Real Madrid,5,10,retained_10_events
+18245,90,1,1,Liverpool,Real Madrid,5,10,retained_10_events
+18245,117,1,2,Real Madrid,Liverpool,6,3,possession_changed
+18245,139,1,2,Real Madrid,Liverpool,7,10,retained_10_events
+18245,185,1,3,Real Madrid,Liverpool,9,10,retained_10_events
+18245,195,1,3,Real Madrid,Liverpool,9,10,retained_10_events
+18245,226,1,4,Liverpool,Real Madrid,11,3,possession_changed
+18245,237,1,4,Real Madrid,Liverpool,12,4,possession_changed
+18245,243,1,5,Real Madrid,Liverpool,13,4,possession_changed
+18245,249,1,5,Real Madrid,Liverpool,14,10,retained_10_events
+18245,261,1,5,Real Madrid,Liverpool,14,5,possession_changed
+18245,265,1,5,Real Madrid,Liverpool,14,1,possession_changed
+18245,268,1,5,Liverpool,Real Madrid,15,10,retained_10_events
+18245,323,1,6,Real Madrid,Liverpool,16,10,retained_10_events
+18245,350,1,7,Real Madrid,Liverpool,16,4,possession_changed
+18245,361,1,7,Liverpool,Real Madrid,18,4,possession_changed
+18245,376,1,7,Real Madrid,Liverpool,19,10,retained_10_events
+18245,378,1,7,Real Madrid,Liverpool,19,10,retained_10_events
+18245,403,1,8,Liverpool,Real Madrid,20,4,possession_changed
+18245,410,1,8,Real Madrid,Liverpool,21,6,possession_changed
+18245,414,1,8,Real Madrid,Liverpool,21,2,possession_changed
+18245,434,1,9,Liverpool,Real Madrid,23,2,possession_changed
+18245,448,1,9,Liverpool,Real Madrid,24,10,retained_10_events
+18245,463,1,9,Liverpool,Real Madrid,24,5,possession_changed
+18245,498,1,11,Liverpool,Real Madrid,26,10,retained_10_events
+18245,509,1,11,Liverpool,Real Madrid,26,10,retained_10_events
+18245,607,1,12,Real Madrid,Liverpool,27,4,possession_changed
+18245,620,1,12,Real Madrid,Liverpool,28,10,retained_10_events
+18245,633,1,13,Real Madrid,Liverpool,28,10,retained_10_events
+18245,635,1,13,Real Madrid,Liverpool,28,10,retained_10_events
+18245,641,1,13,Real Madrid,Liverpool,28,10,retained_10_events
+18245,649,1,13,Real Madrid,Liverpool,28,10,retained_10_events
+18245,673,1,13,Real Madrid,Liverpool,28,10,retained_10_events
+18245,709,1,14,Real Madrid,Liverpool,29,5,possession_changed
+18245,738,1,14,Liverpool,Real Madrid,30,10,retained_10_events
+18245,760,1,15,Liverpool,Real Madrid,32,10,retained_10_events
+18245,825,1,16,Liverpool,Real Madrid,32,10,retained_10_events
+18245,830,1,16,Liverpool,Real Madrid,32,10,retained_10_events
+18245,835,1,16,Liverpool,Real Madrid,32,6,possession_changed
+18245,846,1,16,Real Madrid,Liverpool,33,10,retained_10_events
+18245,852,1,16,Real Madrid,Liverpool,33,10,retained_10_events
+18245,897,1,18,Liverpool,Real Madrid,36,10,retained_10_events
+18245,944,1,19,Liverpool,Real Madrid,38,5,possession_changed
+18245,956,1,20,Liverpool,Real Madrid,40,10,retained_10_events
+18245,967,1,20,Liverpool,Real Madrid,40,2,possession_changed
+18245,979,1,20,Liverpool,Real Madrid,41,10,retained_10_events
+18245,995,1,21,Liverpool,Real Madrid,41,4,possession_changed
+18245,1018,1,21,Liverpool,Real Madrid,44,10,retained_10_events
+18245,1042,1,22,Real Madrid,Liverpool,45,10,retained_10_events
+18245,1054,1,22,Real Madrid,Liverpool,45,10,retained_10_events
+18245,1057,1,22,Real Madrid,Liverpool,45,10,retained_10_events
+18245,1133,1,23,Real Madrid,Liverpool,49,2,possession_changed
+18245,1142,1,24,Real Madrid,Liverpool,50,7,possession_changed
+18245,1151,1,24,Real Madrid,Liverpool,51,3,possession_changed
+18245,1158,1,24,Liverpool,Real Madrid,52,5,possession_changed
+18245,1159,1,24,Liverpool,Real Madrid,52,4,possession_changed
+18245,1185,1,27,Real Madrid,Liverpool,54,6,possession_changed
+18245,1189,1,27,Real Madrid,Liverpool,54,2,possession_changed
+18245,1213,1,30,Real Madrid,Liverpool,57,6,possession_changed
+18245,1249,1,31,Liverpool,Real Madrid,58,3,possession_changed
+18245,1254,1,31,Liverpool,Real Madrid,59,4,possession_changed
+18245,1271,1,31,Liverpool,Real Madrid,60,10,retained_10_events
+18245,1280,1,31,Liverpool,Real Madrid,60,10,retained_10_events
+18245,1286,1,31,Liverpool,Real Madrid,60,10,retained_10_events
+18245,1298,1,31,Liverpool,Real Madrid,60,10,retained_10_events
+18245,1300,1,31,Liverpool,Real Madrid,60,10,retained_10_events
+18245,1332,1,32,Liverpool,Real Madrid,61,4,possession_changed
+18245,1346,1,32,Liverpool,Real Madrid,62,10,retained_10_events
+18245,1389,1,33,Liverpool,Real Madrid,62,8,possession_changed
+18245,1394,1,33,Liverpool,Real Madrid,62,3,possession_changed
+18245,1409,1,36,Real Madrid,Liverpool,64,10,retained_10_events
+18245,1413,1,36,Real Madrid,Liverpool,64,10,retained_10_events
+18245,1422,1,36,Real Madrid,Liverpool,64,10,retained_10_events
+18245,1425,1,36,Real Madrid,Liverpool,64,8,possession_changed
+18245,1448,1,36,Liverpool,Real Madrid,65,10,retained_10_events
+18245,1527,1,38,Liverpool,Real Madrid,65,4,possession_changed
+18245,1546,1,38,Liverpool,Real Madrid,66,10,retained_10_events
+18245,1565,1,39,Liverpool,Real Madrid,66,9,possession_changed
+18245,1571,1,39,Liverpool,Real Madrid,66,3,possession_changed
+18245,1580,1,39,Real Madrid,Liverpool,67,5,possession_changed
+18245,1621,1,40,Real Madrid,Liverpool,70,5,possession_changed
+18245,1630,1,40,Liverpool,Real Madrid,71,6,possession_changed
+18245,1642,1,40,Real Madrid,Liverpool,72,4,possession_changed
+18245,1671,1,41,Liverpool,Real Madrid,73,10,retained_10_events
+18245,1675,1,41,Liverpool,Real Madrid,73,10,retained_10_events
+18245,1715,1,42,Liverpool,Real Madrid,73,10,retained_10_events
+18245,1718,1,42,Liverpool,Real Madrid,73,10,retained_10_events
+18245,1740,1,43,Liverpool,Real Madrid,75,8,possession_changed
+18245,1741,1,43,Liverpool,Real Madrid,75,7,possession_changed
+18245,1754,1,43,Liverpool,Real Madrid,76,10,retained_10_events
+18245,1778,1,44,Real Madrid,Liverpool,77,10,retained_10_events
+18245,1780,1,44,Real Madrid,Liverpool,77,10,retained_10_events
+18245,1786,1,44,Real Madrid,Liverpool,77,5,possession_changed
+18245,1847,1,45,Liverpool,Real Madrid,80,10,retained_10_events
+18245,1864,1,46,Liverpool,Real Madrid,80,2,possession_changed
+18245,1872,1,46,Liverpool,Real Madrid,82,2,possession_changed
+18245,1873,1,46,Liverpool,Real Madrid,82,1,possession_changed
+18245,1880,1,46,Real Madrid,Liverpool,83,4,possession_changed
+18245,1913,1,47,Liverpool,Real Madrid,84,2,possession_changed
+18245,1932,2,45,Liverpool,Real Madrid,86,7,possession_changed
+18245,1955,2,45,Real Madrid,Liverpool,88,9,possession_changed
+18245,1976,2,46,Liverpool,Real Madrid,89,10,retained_10_events
+18245,2055,2,48,Liverpool,Real Madrid,93,2,possession_changed
+18245,2063,2,49,Real Madrid,Liverpool,94,10,retained_10_events
+18245,2084,2,49,Liverpool,Real Madrid,95,4,possession_changed
+18245,2097,2,50,Liverpool,Real Madrid,96,10,retained_10_events
+18245,2121,2,52,Liverpool,Real Madrid,98,4,possession_changed
+18245,2127,2,53,Real Madrid,Liverpool,99,3,possession_changed
+18245,2134,2,53,Liverpool,Real Madrid,100,6,possession_changed
+18245,2156,2,53,Real Madrid,Liverpool,101,10,retained_10_events
+18245,2160,2,53,Real Madrid,Liverpool,101,9,possession_changed
+18245,2163,2,53,Real Madrid,Liverpool,101,6,possession_changed
+18245,2224,2,56,Liverpool,Real Madrid,104,2,possession_changed
+18245,2259,2,57,Liverpool,Real Madrid,105,10,retained_10_events
+18245,2264,2,57,Liverpool,Real Madrid,105,7,possession_changed
+18245,2273,2,58,Liverpool,Real Madrid,106,10,retained_10_events
+18245,2278,2,58,Liverpool,Real Madrid,106,10,retained_10_events
+18245,2282,2,58,Liverpool,Real Madrid,106,10,retained_10_events
+18245,2283,2,58,Liverpool,Real Madrid,106,10,retained_10_events
+18245,2290,2,58,Liverpool,Real Madrid,106,10,retained_10_events
+18245,2298,2,58,Liverpool,Real Madrid,106,10,retained_10_events
+18245,2300,2,58,Liverpool,Real Madrid,106,10,retained_10_events
+18245,2303,2,58,Liverpool,Real Madrid,106,10,retained_10_events
+18245,2307,2,58,Liverpool,Real Madrid,106,10,retained_10_events
+18245,2310,2,58,Liverpool,Real Madrid,106,10,retained_10_events
+18245,2317,2,58,Liverpool,Real Madrid,106,10,retained_10_events
+18245,2338,2,58,Liverpool,Real Madrid,106,5,possession_changed
+18245,2353,2,58,Real Madrid,Liverpool,107,4,possession_changed
+18245,2354,2,58,Real Madrid,Liverpool,107,3,possession_changed
+18245,2361,2,58,Liverpool,Real Madrid,108,6,possession_changed
+18245,2365,2,59,Liverpool,Real Madrid,108,2,possession_changed
+18245,2391,2,59,Liverpool,Real Madrid,109,10,retained_10_events
+18245,2438,2,61,Liverpool,Real Madrid,112,6,possession_changed
+18245,2442,2,61,Liverpool,Real Madrid,112,2,possession_changed
+18245,2458,2,61,Real Madrid,Liverpool,114,10,retained_10_events
+18245,2495,2,62,Liverpool,Real Madrid,115,10,retained_10_events
+18245,2516,2,62,Liverpool,Real Madrid,115,10,retained_10_events
+18245,2518,2,62,Liverpool,Real Madrid,115,10,retained_10_events
+18245,2528,2,62,Liverpool,Real Madrid,115,10,retained_10_events
+18245,2535,2,62,Liverpool,Real Madrid,115,4,possession_changed
+18245,2554,2,64,Liverpool,Real Madrid,117,4,possession_changed
+18245,2569,2,65,Liverpool,Real Madrid,118,10,retained_10_events
+18245,2578,2,65,Liverpool,Real Madrid,118,10,retained_10_events
+18245,2620,2,65,Liverpool,Real Madrid,118,10,retained_10_events
+18245,2712,2,69,Real Madrid,Liverpool,124,10,retained_10_events
+18245,2716,2,69,Real Madrid,Liverpool,124,8,possession_changed
+18245,2718,2,69,Real Madrid,Liverpool,124,6,possession_changed
+18245,2744,2,70,Real Madrid,Liverpool,127,10,retained_10_events
+18245,2747,2,70,Real Madrid,Liverpool,127,10,retained_10_events
+18245,2748,2,70,Real Madrid,Liverpool,127,10,retained_10_events
+18245,2790,2,71,Liverpool,Real Madrid,128,1,possession_changed
+18245,2840,2,73,Liverpool,Real Madrid,132,5,possession_changed
+18245,2857,2,74,Liverpool,Real Madrid,133,4,possession_changed
+18245,2902,2,76,Real Madrid,Liverpool,137,10,retained_10_events
+18245,2904,2,76,Real Madrid,Liverpool,137,10,retained_10_events
+18245,2923,2,76,Real Madrid,Liverpool,137,10,retained_10_events
+18245,2974,2,77,Real Madrid,Liverpool,138,10,retained_10_events
+18245,2986,2,77,Real Madrid,Liverpool,138,10,retained_10_events
+18245,2989,2,77,Real Madrid,Liverpool,138,10,retained_10_events
+18245,3008,2,77,Liverpool,Real Madrid,139,7,possession_changed
+18245,3077,2,78,Liverpool,Real Madrid,141,2,possession_changed
+18245,3085,2,79,Liverpool,Real Madrid,143,10,retained_10_events
+18245,3121,2,80,Liverpool,Real Madrid,143,3,possession_changed
+18245,3134,2,80,Liverpool,Real Madrid,144,10,retained_10_events
+18245,3168,2,81,Real Madrid,Liverpool,145,6,possession_changed
+18245,3172,2,81,Real Madrid,Liverpool,145,2,possession_changed
+18245,3196,2,81,Liverpool,Real Madrid,146,3,possession_changed
+18245,3222,2,84,Real Madrid,Liverpool,148,2,possession_changed
+18245,3228,2,84,Liverpool,Real Madrid,149,10,retained_10_events
+18245,3233,2,84,Liverpool,Real Madrid,149,5,possession_changed
+18245,3236,2,84,Liverpool,Real Madrid,149,2,possession_changed
+18245,3241,2,85,Liverpool,Real Madrid,150,2,possession_changed
+18245,3247,2,85,Liverpool,Real Madrid,151,2,possession_changed
+18245,3251,2,85,Liverpool,Real Madrid,152,10,retained_10_events
+18245,3274,2,86,Real Madrid,Liverpool,153,10,retained_10_events
+18245,3279,2,86,Real Madrid,Liverpool,153,10,retained_10_events
+18245,3296,2,86,Real Madrid,Liverpool,153,4,possession_changed
+18245,3312,2,86,Real Madrid,Liverpool,154,10,retained_10_events
+18245,3317,2,86,Real Madrid,Liverpool,154,10,retained_10_events
+18245,3372,2,89,Liverpool,Real Madrid,155,10,retained_10_events
+18245,3380,2,89,Liverpool,Real Madrid,155,10,retained_10_events
+18245,3399,2,89,Real Madrid,Liverpool,156,2,possession_changed
+18245,3404,2,90,Real Madrid,Liverpool,157,6,possession_changed
+18245,3417,2,90,Liverpool,Real Madrid,158,4,possession_changed
+18245,3429,2,90,Liverpool,Real Madrid,159,2,possession_changed
+18245,3456,2,91,Real Madrid,Liverpool,162,4,possession_changed
+18245,3470,2,92,Real Madrid,Liverpool,163,8,possession_changed
+18245,3477,2,92,Real Madrid,Liverpool,163,1,possession_changed
+18245,3481,2,92,Liverpool,Real Madrid,164,10,retained_10_events
+18245,3486,2,92,Liverpool,Real Madrid,164,10,retained_10_events
+18245,3492,2,92,Liverpool,Real Madrid,164,5,insufficient_events
+22912,22,1,0,Tottenham Hotspur,Liverpool,2,10,retained_10_events
+22912,42,1,2,Liverpool,Tottenham Hotspur,4,10,retained_10_events
+22912,61,1,3,Liverpool,Tottenham Hotspur,4,4,possession_changed
+22912,69,1,3,Tottenham Hotspur,Liverpool,5,10,retained_10_events
+22912,89,1,3,Tottenham Hotspur,Liverpool,5,10,retained_10_events
+22912,97,1,3,Tottenham Hotspur,Liverpool,5,2,possession_changed
+22912,109,1,4,Liverpool,Tottenham Hotspur,6,10,retained_10_events
+22912,111,1,4,Liverpool,Tottenham Hotspur,6,10,retained_10_events
+22912,115,1,4,Liverpool,Tottenham Hotspur,6,10,retained_10_events
+22912,121,1,4,Liverpool,Tottenham Hotspur,6,10,retained_10_events
+22912,125,1,4,Liverpool,Tottenham Hotspur,6,10,retained_10_events
+22912,129,1,4,Liverpool,Tottenham Hotspur,6,10,retained_10_events
+22912,136,1,4,Liverpool,Tottenham Hotspur,6,10,retained_10_events
+22912,151,1,4,Liverpool,Tottenham Hotspur,6,6,possession_changed
+22912,155,1,4,Liverpool,Tottenham Hotspur,6,2,possession_changed
+22912,162,1,5,Liverpool,Tottenham Hotspur,7,10,retained_10_events
+22912,180,1,5,Liverpool,Tottenham Hotspur,7,2,possession_changed
+22912,188,1,5,Tottenham Hotspur,Liverpool,8,10,retained_10_events
+22912,192,1,5,Tottenham Hotspur,Liverpool,8,9,possession_changed
+22912,199,1,6,Tottenham Hotspur,Liverpool,8,2,possession_changed
+22912,208,1,6,Liverpool,Tottenham Hotspur,11,10,retained_10_events
+22912,213,1,6,Liverpool,Tottenham Hotspur,11,7,possession_changed
+22912,231,1,7,Liverpool,Tottenham Hotspur,12,10,retained_10_events
+22912,234,1,7,Liverpool,Tottenham Hotspur,12,10,retained_10_events
+22912,239,1,7,Liverpool,Tottenham Hotspur,12,10,retained_10_events
+22912,242,1,7,Liverpool,Tottenham Hotspur,12,10,retained_10_events
+22912,243,1,7,Liverpool,Tottenham Hotspur,12,9,possession_changed
+22912,256,1,7,Liverpool,Tottenham Hotspur,13,10,retained_10_events
+22912,257,1,7,Liverpool,Tottenham Hotspur,13,10,retained_10_events
+22912,265,1,7,Liverpool,Tottenham Hotspur,13,9,possession_changed
+22912,279,1,8,Liverpool,Tottenham Hotspur,15,10,retained_10_events
+22912,287,1,8,Liverpool,Tottenham Hotspur,15,10,retained_10_events
+22912,294,1,8,Liverpool,Tottenham Hotspur,15,10,retained_10_events
+22912,299,1,8,Liverpool,Tottenham Hotspur,15,10,retained_10_events
+22912,314,1,8,Liverpool,Tottenham Hotspur,15,10,retained_10_events
+22912,321,1,8,Liverpool,Tottenham Hotspur,15,10,retained_10_events
+22912,322,1,8,Liverpool,Tottenham Hotspur,15,10,retained_10_events
+22912,326,1,8,Liverpool,Tottenham Hotspur,15,10,retained_10_events
+22912,334,1,9,Liverpool,Tottenham Hotspur,15,9,possession_changed
+22912,335,1,9,Liverpool,Tottenham Hotspur,15,8,possession_changed
+22912,341,1,9,Liverpool,Tottenham Hotspur,15,2,possession_changed
+22912,347,1,9,Tottenham Hotspur,Liverpool,16,10,retained_10_events
+22912,351,1,9,Tottenham Hotspur,Liverpool,16,10,retained_10_events
+22912,355,1,9,Tottenham Hotspur,Liverpool,16,10,retained_10_events
+22912,374,1,11,Tottenham Hotspur,Liverpool,17,5,possession_changed
+22912,383,1,11,Liverpool,Tottenham Hotspur,18,9,possession_changed
+22912,388,1,11,Liverpool,Tottenham Hotspur,18,4,possession_changed
+22912,421,1,12,Liverpool,Tottenham Hotspur,20,10,retained_10_events
+22912,425,1,12,Liverpool,Tottenham Hotspur,20,10,retained_10_events
+22912,437,1,13,Liverpool,Tottenham Hotspur,20,10,retained_10_events
+22912,459,1,13,Liverpool,Tottenham Hotspur,20,3,possession_changed
+22912,466,1,13,Liverpool,Tottenham Hotspur,21,5,possession_changed
+22912,480,1,14,Tottenham Hotspur,Liverpool,22,1,possession_changed
+22912,509,1,15,Liverpool,Tottenham Hotspur,23,10,retained_10_events
+22912,524,1,15,Liverpool,Tottenham Hotspur,23,10,retained_10_events
+22912,566,1,16,Tottenham Hotspur,Liverpool,24,5,possession_changed
+22912,581,1,16,Tottenham Hotspur,Liverpool,25,7,possession_changed
+22912,615,1,18,Tottenham Hotspur,Liverpool,30,3,possession_changed
+22912,623,1,18,Liverpool,Tottenham Hotspur,31,5,possession_changed
+22912,632,1,18,Tottenham Hotspur,Liverpool,32,10,retained_10_events
+22912,641,1,18,Tottenham Hotspur,Liverpool,32,3,possession_changed
+22912,657,1,19,Liverpool,Tottenham Hotspur,33,10,retained_10_events
+22912,659,1,19,Liverpool,Tottenham Hotspur,33,10,retained_10_events
+22912,663,1,19,Liverpool,Tottenham Hotspur,33,10,retained_10_events
+22912,666,1,19,Liverpool,Tottenham Hotspur,33,10,retained_10_events
+22912,670,1,19,Liverpool,Tottenham Hotspur,33,10,retained_10_events
+22912,681,1,19,Liverpool,Tottenham Hotspur,33,10,retained_10_events
+22912,683,1,19,Liverpool,Tottenham Hotspur,33,10,retained_10_events
+22912,689,1,19,Liverpool,Tottenham Hotspur,33,10,retained_10_events
+22912,696,1,19,Liverpool,Tottenham Hotspur,33,10,retained_10_events
+22912,703,1,19,Liverpool,Tottenham Hotspur,33,5,possession_changed
+22912,710,1,19,Liverpool,Tottenham Hotspur,34,8,possession_changed
+22912,716,1,19,Liverpool,Tottenham Hotspur,34,2,possession_changed
+22912,755,1,20,Tottenham Hotspur,Liverpool,35,5,possession_changed
+22912,765,1,21,Tottenham Hotspur,Liverpool,37,4,possession_changed
+22912,771,1,22,Liverpool,Tottenham Hotspur,38,10,retained_10_events
+22912,784,1,22,Liverpool,Tottenham Hotspur,38,2,possession_changed
+22912,785,1,22,Liverpool,Tottenham Hotspur,38,1,possession_changed
+22912,825,1,23,Tottenham Hotspur,Liverpool,40,3,possession_changed
+22912,849,1,25,Liverpool,Tottenham Hotspur,42,10,retained_10_events
+22912,853,1,25,Liverpool,Tottenham Hotspur,42,10,retained_10_events
+22912,866,1,25,Liverpool,Tottenham Hotspur,42,10,retained_10_events
+22912,879,1,25,Liverpool,Tottenham Hotspur,42,1,possession_changed
+22912,888,1,26,Liverpool,Tottenham Hotspur,44,10,retained_10_events
+22912,898,1,26,Liverpool,Tottenham Hotspur,44,10,retained_10_events
+22912,909,1,26,Liverpool,Tottenham Hotspur,44,7,possession_changed
+22912,919,1,26,Liverpool,Tottenham Hotspur,45,10,retained_10_events
+22912,947,1,27,Liverpool,Tottenham Hotspur,45,5,possession_changed
+22912,949,1,27,Liverpool,Tottenham Hotspur,45,3,possession_changed
+22912,967,1,27,Liverpool,Tottenham Hotspur,46,9,possession_changed
+22912,969,1,27,Liverpool,Tottenham Hotspur,46,7,possession_changed
+22912,994,1,29,Liverpool,Tottenham Hotspur,49,10,retained_10_events
+22912,999,1,29,Liverpool,Tottenham Hotspur,49,10,retained_10_events
+22912,1003,1,29,Liverpool,Tottenham Hotspur,49,10,retained_10_events
+22912,1012,1,29,Liverpool,Tottenham Hotspur,49,10,retained_10_events
+22912,1022,1,29,Liverpool,Tottenham Hotspur,49,4,possession_changed
+22912,1041,1,30,Liverpool,Tottenham Hotspur,50,9,possession_changed
+22912,1052,1,30,Liverpool,Tottenham Hotspur,51,5,possession_changed
+22912,1071,1,30,Liverpool,Tottenham Hotspur,52,10,retained_10_events
+22912,1089,1,31,Liverpool,Tottenham Hotspur,52,8,possession_changed
+22912,1109,1,31,Liverpool,Tottenham Hotspur,53,10,retained_10_events
+22912,1113,1,31,Liverpool,Tottenham Hotspur,53,10,retained_10_events
+22912,1123,1,31,Liverpool,Tottenham Hotspur,53,8,possession_changed
+22912,1129,1,31,Liverpool,Tottenham Hotspur,53,2,possession_changed
+22912,1141,1,32,Liverpool,Tottenham Hotspur,55,10,retained_10_events
+22912,1147,1,32,Liverpool,Tottenham Hotspur,55,10,retained_10_events
+22912,1153,1,32,Liverpool,Tottenham Hotspur,55,10,retained_10_events
+22912,1157,1,32,Liverpool,Tottenham Hotspur,55,10,retained_10_events
+22912,1168,1,32,Liverpool,Tottenham Hotspur,55,10,retained_10_events
+22912,1172,1,32,Liverpool,Tottenham Hotspur,55,10,retained_10_events
+22912,1192,1,33,Liverpool,Tottenham Hotspur,57,9,possession_changed
+22912,1197,1,33,Liverpool,Tottenham Hotspur,57,4,possession_changed
+22912,1198,1,33,Liverpool,Tottenham Hotspur,57,3,possession_changed
+22912,1210,1,34,Liverpool,Tottenham Hotspur,59,3,possession_changed
+22912,1211,1,34,Liverpool,Tottenham Hotspur,59,2,possession_changed
+22912,1238,1,34,Liverpool,Tottenham Hotspur,60,10,retained_10_events
+22912,1265,1,35,Liverpool,Tottenham Hotspur,61,10,retained_10_events
+22912,1266,1,35,Liverpool,Tottenham Hotspur,61,10,retained_10_events
+22912,1271,1,35,Liverpool,Tottenham Hotspur,61,8,possession_changed
+22912,1281,1,36,Liverpool,Tottenham Hotspur,62,10,retained_10_events
+22912,1287,1,36,Liverpool,Tottenham Hotspur,62,10,retained_10_events
+22912,1295,1,36,Liverpool,Tottenham Hotspur,62,10,retained_10_events
+22912,1301,1,36,Liverpool,Tottenham Hotspur,62,10,retained_10_events
+22912,1305,1,36,Liverpool,Tottenham Hotspur,62,10,retained_10_events
+22912,1307,1,36,Liverpool,Tottenham Hotspur,62,8,possession_changed
+22912,1317,1,36,Tottenham Hotspur,Liverpool,63,10,retained_10_events
+22912,1323,1,36,Tottenham Hotspur,Liverpool,63,6,possession_changed
+22912,1327,1,36,Tottenham Hotspur,Liverpool,63,2,possession_changed
+22912,1333,1,37,Liverpool,Tottenham Hotspur,64,3,possession_changed
+22912,1334,1,37,Liverpool,Tottenham Hotspur,64,2,possession_changed
+22912,1343,1,37,Tottenham Hotspur,Liverpool,65,5,possession_changed
+22912,1360,1,40,Tottenham Hotspur,Liverpool,68,10,retained_10_events
+22912,1367,1,40,Tottenham Hotspur,Liverpool,68,10,retained_10_events
+22912,1387,1,41,Tottenham Hotspur,Liverpool,69,1,possession_changed
+22912,1392,1,41,Liverpool,Tottenham Hotspur,70,7,possession_changed
+22912,1397,1,41,Liverpool,Tottenham Hotspur,70,2,possession_changed
+22912,1407,1,41,Tottenham Hotspur,Liverpool,71,9,possession_changed
+22912,1408,1,41,Tottenham Hotspur,Liverpool,71,8,possession_changed
+22912,1445,1,42,Tottenham Hotspur,Liverpool,74,10,retained_10_events
+22912,1449,1,43,Tottenham Hotspur,Liverpool,74,7,possession_changed
+22912,1463,1,43,Liverpool,Tottenham Hotspur,75,10,retained_10_events
+22912,1471,1,43,Liverpool,Tottenham Hotspur,75,10,retained_10_events
+22912,1474,1,43,Liverpool,Tottenham Hotspur,75,10,retained_10_events
+22912,1482,1,43,Liverpool,Tottenham Hotspur,75,8,possession_changed
+22912,1485,1,43,Liverpool,Tottenham Hotspur,75,5,possession_changed
+22912,1527,1,44,Liverpool,Tottenham Hotspur,77,5,possession_changed
+22912,1534,1,45,Liverpool,Tottenham Hotspur,78,10,retained_10_events
+22912,1548,1,45,Liverpool,Tottenham Hotspur,78,10,retained_10_events
+22912,1552,1,45,Liverpool,Tottenham Hotspur,78,10,retained_10_events
+22912,1554,1,45,Liverpool,Tottenham Hotspur,78,8,possession_changed
+22912,1560,1,45,Liverpool,Tottenham Hotspur,78,2,possession_changed
+22912,1574,1,45,Liverpool,Tottenham Hotspur,80,10,retained_10_events
+22912,1596,1,46,Liverpool,Tottenham Hotspur,81,10,retained_10_events
+22912,1600,1,46,Liverpool,Tottenham Hotspur,81,10,retained_10_events
+22912,1618,1,46,Liverpool,Tottenham Hotspur,81,10,retained_10_events
+22912,1652,2,45,Tottenham Hotspur,Liverpool,83,2,possession_changed
+22912,1658,2,45,Liverpool,Tottenham Hotspur,84,10,retained_10_events
+22912,1664,2,45,Liverpool,Tottenham Hotspur,84,10,retained_10_events
+22912,1665,2,45,Liverpool,Tottenham Hotspur,84,10,retained_10_events
+22912,1669,2,45,Liverpool,Tottenham Hotspur,84,7,possession_changed
+22912,1680,2,45,Liverpool,Tottenham Hotspur,85,10,retained_10_events
+22912,1700,2,46,Liverpool,Tottenham Hotspur,85,10,retained_10_events
+22912,1716,2,46,Liverpool,Tottenham Hotspur,85,9,possession_changed
+22912,1723,2,47,Liverpool,Tottenham Hotspur,85,2,possession_changed
+22912,1740,2,47,Tottenham Hotspur,Liverpool,87,4,possession_changed
+22912,1747,2,47,Liverpool,Tottenham Hotspur,88,2,possession_changed
+22912,1764,2,48,Liverpool,Tottenham Hotspur,90,10,retained_10_events
+22912,1766,2,48,Liverpool,Tottenham Hotspur,90,10,retained_10_events
+22912,1791,2,49,Liverpool,Tottenham Hotspur,93,4,possession_changed
+22912,1810,2,50,Liverpool,Tottenham Hotspur,96,6,possession_changed
+22912,1812,2,50,Liverpool,Tottenham Hotspur,96,4,possession_changed
+22912,1830,2,51,Liverpool,Tottenham Hotspur,98,10,retained_10_events
+22912,1834,2,51,Liverpool,Tottenham Hotspur,98,10,retained_10_events
+22912,1835,2,51,Liverpool,Tottenham Hotspur,98,10,retained_10_events
+22912,1838,2,51,Liverpool,Tottenham Hotspur,98,8,possession_changed
+22912,1845,2,51,Liverpool,Tottenham Hotspur,98,1,possession_changed
+22912,1849,2,51,Tottenham Hotspur,Liverpool,99,9,possession_changed
+22912,1862,2,51,Tottenham Hotspur,Liverpool,100,10,retained_10_events
+22912,1884,2,52,Tottenham Hotspur,Liverpool,100,3,possession_changed
+22912,1923,2,53,Tottenham Hotspur,Liverpool,102,10,retained_10_events
+22912,1959,2,53,Liverpool,Tottenham Hotspur,103,10,retained_10_events
+22912,1982,2,54,Liverpool,Tottenham Hotspur,103,10,retained_10_events
+22912,1992,2,54,Liverpool,Tottenham Hotspur,103,10,retained_10_events
+22912,2000,2,54,Liverpool,Tottenham Hotspur,103,8,possession_changed
+22912,2004,2,54,Liverpool,Tottenham Hotspur,103,4,possession_changed
+22912,2022,2,56,Liverpool,Tottenham Hotspur,104,6,possession_changed
+22912,2025,2,56,Liverpool,Tottenham Hotspur,104,3,possession_changed
+22912,2031,2,56,Liverpool,Tottenham Hotspur,105,4,possession_changed
+22912,2044,2,58,Tottenham Hotspur,Liverpool,107,3,possession_changed
+22912,2050,2,58,Liverpool,Tottenham Hotspur,108,10,retained_10_events
+22912,2055,2,58,Liverpool,Tottenham Hotspur,108,10,retained_10_events
+22912,2063,2,58,Liverpool,Tottenham Hotspur,108,9,possession_changed
+22912,2101,2,59,Liverpool,Tottenham Hotspur,109,10,retained_10_events
+22912,2117,2,59,Liverpool,Tottenham Hotspur,109,10,retained_10_events
+22912,2130,2,59,Liverpool,Tottenham Hotspur,109,10,retained_10_events
+22912,2133,2,59,Liverpool,Tottenham Hotspur,109,10,retained_10_events
+22912,2137,2,59,Liverpool,Tottenham Hotspur,109,10,retained_10_events
+22912,2138,2,59,Liverpool,Tottenham Hotspur,109,10,retained_10_events
+22912,2145,2,60,Liverpool,Tottenham Hotspur,109,10,retained_10_events
+22912,2149,2,60,Liverpool,Tottenham Hotspur,109,10,retained_10_events
+22912,2154,2,60,Liverpool,Tottenham Hotspur,109,10,retained_10_events
+22912,2157,2,60,Liverpool,Tottenham Hotspur,109,10,retained_10_events
+22912,2177,2,60,Liverpool,Tottenham Hotspur,109,10,retained_10_events
+22912,2184,2,60,Liverpool,Tottenham Hotspur,109,6,possession_changed
+22912,2186,2,60,Liverpool,Tottenham Hotspur,109,4,possession_changed
+22912,2201,2,61,Tottenham Hotspur,Liverpool,111,4,possession_changed
+22912,2202,2,61,Tottenham Hotspur,Liverpool,111,3,possession_changed
+22912,2247,2,62,Liverpool,Tottenham Hotspur,114,10,retained_10_events
+22912,2258,2,63,Liverpool,Tottenham Hotspur,114,10,retained_10_events
+22912,2260,2,63,Liverpool,Tottenham Hotspur,114,10,retained_10_events
+22912,2264,2,63,Liverpool,Tottenham Hotspur,114,10,retained_10_events
+22912,2265,2,63,Liverpool,Tottenham Hotspur,114,10,retained_10_events
+22912,2272,2,63,Liverpool,Tottenham Hotspur,114,10,retained_10_events
+22912,2303,2,63,Liverpool,Tottenham Hotspur,114,10,retained_10_events
+22912,2310,2,64,Liverpool,Tottenham Hotspur,114,10,retained_10_events
+22912,2311,2,64,Liverpool,Tottenham Hotspur,114,10,retained_10_events
+22912,2321,2,64,Liverpool,Tottenham Hotspur,114,8,possession_changed
+22912,2337,2,65,Liverpool,Tottenham Hotspur,116,10,retained_10_events
+22912,2339,2,65,Liverpool,Tottenham Hotspur,116,10,retained_10_events
+22912,2347,2,65,Liverpool,Tottenham Hotspur,116,10,retained_10_events
+22912,2352,2,65,Liverpool,Tottenham Hotspur,116,7,possession_changed
+22912,2365,2,65,Tottenham Hotspur,Liverpool,117,10,retained_10_events
+22912,2375,2,65,Tottenham Hotspur,Liverpool,117,10,retained_10_events
+22912,2380,2,65,Tottenham Hotspur,Liverpool,117,10,retained_10_events
+22912,2401,2,67,Tottenham Hotspur,Liverpool,120,4,possession_changed
+22912,2410,2,67,Liverpool,Tottenham Hotspur,121,8,possession_changed
+22912,2416,2,67,Liverpool,Tottenham Hotspur,121,2,possession_changed
+22912,2424,2,67,Tottenham Hotspur,Liverpool,122,10,retained_10_events
+22912,2428,2,67,Tottenham Hotspur,Liverpool,122,8,possession_changed
+22912,2429,2,68,Tottenham Hotspur,Liverpool,122,7,possession_changed
+22912,2441,2,68,Liverpool,Tottenham Hotspur,123,10,retained_10_events
+22912,2457,2,69,Liverpool,Tottenham Hotspur,123,10,retained_10_events
+22912,2463,2,69,Liverpool,Tottenham Hotspur,123,10,retained_10_events
+22912,2465,2,69,Liverpool,Tottenham Hotspur,123,10,retained_10_events
+22912,2476,2,69,Liverpool,Tottenham Hotspur,123,10,retained_10_events
+22912,2483,2,69,Liverpool,Tottenham Hotspur,123,10,retained_10_events
+22912,2510,2,70,Liverpool,Tottenham Hotspur,123,2,possession_changed
+22912,2535,2,72,Liverpool,Tottenham Hotspur,126,10,retained_10_events
+22912,2541,2,72,Liverpool,Tottenham Hotspur,126,10,retained_10_events
+22912,2546,2,72,Liverpool,Tottenham Hotspur,126,10,retained_10_events
+22912,2552,2,72,Liverpool,Tottenham Hotspur,126,10,retained_10_events
+22912,2556,2,72,Liverpool,Tottenham Hotspur,126,10,retained_10_events
+22912,2559,2,72,Liverpool,Tottenham Hotspur,126,10,retained_10_events
+22912,2570,2,72,Liverpool,Tottenham Hotspur,126,10,retained_10_events
+22912,2579,2,72,Liverpool,Tottenham Hotspur,126,4,possession_changed
+22912,2644,2,74,Liverpool,Tottenham Hotspur,130,9,possession_changed
+22912,2651,2,74,Liverpool,Tottenham Hotspur,130,2,possession_changed
+22912,2657,2,75,Liverpool,Tottenham Hotspur,131,10,retained_10_events
+22912,2670,2,75,Liverpool,Tottenham Hotspur,131,10,retained_10_events
+22912,2678,2,75,Liverpool,Tottenham Hotspur,131,4,possession_changed
+22912,2690,2,76,Liverpool,Tottenham Hotspur,133,10,retained_10_events
+22912,2691,2,76,Liverpool,Tottenham Hotspur,133,10,retained_10_events
+22912,2700,2,76,Liverpool,Tottenham Hotspur,133,2,possession_changed
+22912,2747,2,77,Liverpool,Tottenham Hotspur,138,10,retained_10_events
+22912,2772,2,78,Liverpool,Tottenham Hotspur,138,10,retained_10_events
+22912,2781,2,78,Liverpool,Tottenham Hotspur,138,10,retained_10_events
+22912,2783,2,78,Liverpool,Tottenham Hotspur,138,10,retained_10_events
+22912,2786,2,78,Liverpool,Tottenham Hotspur,138,9,possession_changed
+22912,2790,2,78,Liverpool,Tottenham Hotspur,138,5,possession_changed
+22912,2799,2,78,Liverpool,Tottenham Hotspur,140,10,retained_10_events
+22912,2806,2,79,Liverpool,Tottenham Hotspur,140,10,retained_10_events
+22912,2812,2,79,Liverpool,Tottenham Hotspur,140,10,retained_10_events
+22912,2823,2,79,Liverpool,Tottenham Hotspur,140,10,retained_10_events
+22912,2825,2,79,Liverpool,Tottenham Hotspur,140,10,retained_10_events
+22912,2843,2,79,Liverpool,Tottenham Hotspur,140,8,possession_changed
+22912,2846,2,79,Liverpool,Tottenham Hotspur,140,5,possession_changed
+22912,2850,2,79,Liverpool,Tottenham Hotspur,140,1,possession_changed
+22912,2869,2,80,Liverpool,Tottenham Hotspur,147,10,retained_10_events
+22912,2878,2,80,Liverpool,Tottenham Hotspur,147,9,possession_changed
+22912,2882,2,80,Liverpool,Tottenham Hotspur,147,5,possession_changed
+22912,2886,2,80,Liverpool,Tottenham Hotspur,147,1,possession_changed
+22912,2891,2,80,Tottenham Hotspur,Liverpool,149,0,possession_changed
+22912,2902,2,81,Tottenham Hotspur,Liverpool,151,10,retained_10_events
+22912,2912,2,81,Tottenham Hotspur,Liverpool,151,2,possession_changed
+22912,2917,2,82,Liverpool,Tottenham Hotspur,152,10,retained_10_events
+22912,2939,2,82,Liverpool,Tottenham Hotspur,152,3,possession_changed
+22912,2991,2,88,Liverpool,Tottenham Hotspur,157,6,possession_changed
+22912,2992,2,88,Liverpool,Tottenham Hotspur,157,5,possession_changed
+22912,3033,2,90,Liverpool,Tottenham Hotspur,159,2,possession_changed
+22912,3057,2,91,Liverpool,Tottenham Hotspur,161,10,retained_10_events
+22912,3073,2,91,Liverpool,Tottenham Hotspur,162,4,possession_changed
+22912,3081,2,92,Liverpool,Tottenham Hotspur,164,10,retained_10_events
+22912,3091,2,92,Liverpool,Tottenham Hotspur,164,2,possession_changed
+22912,3100,2,92,Liverpool,Tottenham Hotspur,165,5,possession_changed
+22912,3103,2,92,Liverpool,Tottenham Hotspur,165,2,possession_changed
+22912,3127,2,93,Liverpool,Tottenham Hotspur,168,4,possession_changed
+22912,3138,2,94,Liverpool,Tottenham Hotspur,169,1,possession_changed

@@ -1,0 +1,6 @@
+match_id,season_id,season_name,season_match_file,total_events,pressure,pass,carry,interception,dispossessed,under_pressure_true,possession_available,possession_missing,possession_team_available,possession_team_missing,team_available,team_missing,player_available,player_missing,location_available,location_missing,records_missing_any_field,missing_field_values_total,missing_event_file,missing_match_record
+18245,1,2017/2018,1.json,3497,226,1033,796,11,28,535,3497,0,3497,0,3497,0,3484,13,3470,27,27,40,False,False
+18244,2,2016/2017,2.json,3400,194,1001,845,19,17,442,3400,0,3400,0,3400,0,3388,12,3379,21,21,33,False,False
+18243,27,2015/2016,27.json,4708,300,1358,1124,12,26,867,4708,0,4708,0,4708,0,4683,25,4672,36,36,61,False,False
+18242,26,2014/2015,26.json,3433,266,977,825,4,24,541,3433,0,3433,0,3433,0,3419,14,3405,28,30,42,False,False
+22912,4,2018/2019,4.json,3165,314,890,669,15,19,697,3165,0,3165,0,3165,0,3149,16,3140,25,27,41,False,False

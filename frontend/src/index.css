@@ -1,0 +1,101 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --bg-primary: #FFFBEA;
+    --card-surface: #FFFDF3;
+    --primary-accent: #FFE500;
+    --primary-text: #171717;
+    --border-color: #171717;
+    --success-retained: #36B879;
+    --alert-changed: #F16B6B;
+    --muted-text: #64748B;
+    --secondary-muted: #94A3B8;
+    --subtle-surface: #F2EDD9;
+    --chart-grid: #E6DFC8;
+  }
+
+  body {
+    background-color: #FFFBEA;
+    color: #171717;
+    font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    overflow-x: hidden;
+  }
+
+  .tabular-nums {
+    font-variant-numeric: tabular-nums;
+  }
+}
+
+/* Custom Neo-Brutalist shadows & borders */
+.brutal-card {
+  background-color: #FFFDF3;
+  border: 2px solid #171717;
+  box-shadow: 4px 4px 0px #171717;
+  transition: transform 0.15s cubic-bezier(0.16, 1, 0.3, 1), box-shadow 0.15s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.brutal-card-sm {
+  background-color: #FFFDF3;
+  border: 2px solid #171717;
+  box-shadow: 2px 2px 0px #171717;
+}
+
+.brutal-card-lg {
+  background-color: #FFFDF3;
+  border: 3px solid #171717;
+  box-shadow: 6px 6px 0px #171717;
+}
+
+.brutal-card-interactive:hover {
+  transform: translate(-2px, -2px);
+  box-shadow: 6px 6px 0px #171717;
+}
+
+.brutal-button {
+  background-color: #FFFDF3;
+  border: 2px solid #171717;
+  box-shadow: 3px 3px 0px #171717;
+  font-weight: 600;
+  transition: transform 0.15s cubic-bezier(0.16, 1, 0.3, 1), box-shadow 0.15s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.brutal-button:hover:not(:disabled) {
+  transform: translate(-1px, -1px);
+  box-shadow: 4px 4px 0px #171717;
+}
+
+.brutal-button:active:not(:disabled) {
+  transform: translate(2px, 2px);
+  box-shadow: 1px 1px 0px #171717;
+}
+
+.brutal-button-accent {
+  background-color: #FFE500;
+  border: 2px solid #171717;
+  box-shadow: 3px 3px 0px #171717;
+  font-weight: 700;
+  transition: transform 0.15s cubic-bezier(0.16, 1, 0.3, 1), box-shadow 0.15s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.brutal-button-accent:hover:not(:disabled) {
+  transform: translate(-1px, -1px);
+  box-shadow: 4px 4px 0px #171717;
+}
+
+.brutal-button-accent:active:not(:disabled) {
+  transform: translate(2px, 2px);
+  box-shadow: 1px 1px 0px #171717;
+}
+
+.brutal-tag {
+  border: 1.5px solid #171717;
+  box-shadow: 1.5px 1.5px 0px #171717;
+  font-weight: 600;
+}
+
+.font-mono-nums {
+  font-family: 'IBM Plex Mono', monospace;
+  font-variant-numeric: tabular-nums;
+}

@@ -1,0 +1,6 @@
+{
+  "name": "PressEscape — Football Analytics & Press Resistance Intelligence",
+  "description": "Professional football intelligence platform analyzing opponent pressure events, 10-event possession retention, and tactical spatial patterns across UEFA Champions League finals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
