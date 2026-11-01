@@ -75,7 +75,4 @@ Once Node.js is installed on your system:
 cd frontend
 npm install
 npm run dev
-```
-
-The dashboard will open at `http://localhost:3000`, automatically loading your actual processed data.
 You can also use the **CSV Synchronizer modal** in the UI to upload or inspect CSV files anytime.
