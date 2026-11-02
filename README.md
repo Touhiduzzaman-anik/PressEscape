@@ -15,7 +15,7 @@ D:\PressEscape/
 │   │   └── matches/16/                  # UCL match metadata
 │   └── processed/                       # Python pipeline exports
 │       ├── pressure_analysis.csv        # 1,206 pressure event observations
-│       ├── team_summary.csv             # 10 team matchup retention summaries
+│       ├── team_summary.csv             # 10 team matchup retention summary
 │       └── audit_report.csv             # 5-match data quality & audit report
 ├── src/                                 # Python Analytics Engine (Preserved)
 │   ├── analyze_pressures.py             # Event-level pressure parser (10-event window)
